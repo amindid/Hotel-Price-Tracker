@@ -1,0 +1,81 @@
+.container {
+  font-family: Arial, sans-serif;
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.hotelCard {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.hotelName {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+  color: #333;
+}
+
+.hotelDetail {
+  margin: 10px;
+  color: #555;
+  text-indent : 20px;
+}
+
+.detailsList {
+  margin: 0;
+  padding: 0;
+  list-style-type: square;
+  color: #444;
+  margin-left: 90px;
+}
+
+.filters {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+.filters label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.filters input {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100px;
+}
+
+.filters button {
+  padding: 5px 10px;
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.filters button:hover {
+  background-color: #005bb5;
+}
+
+.hotelCount {
+  margin: 10px 0;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #333;
+}

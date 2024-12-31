@@ -2,13 +2,20 @@ import time
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-import csv
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+# import csv
+import json
 
-def scrape_booking(city, checkin, checkout):
-    options = Options()
-    driver = webdriver.Chrome(options=options)
-    driver.get(f"https://www.booking.com/searchresults.html?ss={city}&checkin={checkin}&checkout={checkout}")
-    
+def scrape_booking(city, checkin, checkout, nb_adults, nb_rooms, nb_children):
+    driver = webdriver.Chrome()
+    driver.get(f"https://www.booking.com/searchresults.html?ss={city}&checkin={checkin}&checkout={checkout}&group_adults={nb_adults}&no_rooms={nb_rooms}&group_children={nb_children}")
+    # wait for the sign in dismiss button to appear
+    close_button = WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, "//button[contains(@aria-label, 'Dismiss sign-in')]"))
+    )
+    # Click the close button
+    close_button.click()
     hotels = []  # List to store hotel information
 
     scroll_height = 0
@@ -43,25 +50,21 @@ def scrape_booking(city, checkin, checkout):
             # Extract review score and count
             review_info = hotel_element.find_element(By.XPATH, ".//div[@data-testid='review-score']").text if hotel_element.find_elements(By.XPATH, ".//div[@data-testid='review-score']") else "N/A"
             review_details = review_info.split('\n')
-            # review_score = review_score.split()[1] or "N/A"
-            # review_count = review_count.split()[1] or "N/A"
-            # review_score = review_score.split()
-            # review_count = hotel_element.find_element(By.XPATH, ".//div[@data-testid='review-score']/span[2]").text if hotel_element.find_elements(By.XPATH, ".//div[@data-testid='review-score']/span[2]") else "N/A"
             
             # Extract price
             price = hotel_element.find_element(By.XPATH, ".//span[@data-testid='price-and-discounted-price']").text if hotel_element.find_elements(By.XPATH, ".//span[@data-testid='price-and-discounted-price']") else "N/A"
             
-            # Extract amenities
-            # amenities = [amenity.text for amenity in hotel_element.find_elements(By.XPATH, ".//div[@data-testid='amenities']")]
-
+            # Extract details
+            details = hotel_element.find_element(By.XPATH, ".//div[@data-testid='recommended-units']").text if hotel_element.find_elements(By.XPATH, ".//div[@data-testid='recommended-units']") else "N/A"
+            details = details.split("\n")
             # Add the extracted data to the list
             hotels.append({
                 "name": hotel_name,
                 "location": location,
                 "price": price,
-                "review_score": review_details[0] or "N/A",
-                "review_count": review_details[3] or "N/A",
-                # "amenities": amenities
+                "review_score": review_info if review_info == "N/A" else review_details[0],
+                "review_count": review_info if review_info == "N/A" else review_details[3],
+                "details": details if len(details) != 0 else "N/A"
             })
 
         except Exception as e:
@@ -69,20 +72,8 @@ def scrape_booking(city, checkin, checkout):
             continue  # Skip hotels with issues
 
     driver.quit()
-
-    # Save hotels to a CSV file
-    with open(f"{city}_hotels_overview.csv", mode="w", newline="", encoding="utf-8") as file:
-        writer = csv.DictWriter(file, fieldnames=["name", "location", "price", "review_score", "review_count"])
-        # writer = csv.DictWriter(file, fieldnames=["name", "location", "review_score", "review_count", "price", "amenities"])
-        writer.writeheader()
-        for hotel in hotels:
-            writer.writerow({
-                "name": hotel["name"],
-                "location": hotel["location"],
-                "price": hotel["price"],
-                "review_score": hotel["review_score"],
-                "review_count": hotel["review_count"],
-            })
+    with open('../frontend/hotel-tracker/public/hotels_list.json', 'w', encoding='utf-8') as json_file:
+        json.dump(hotels, json_file, ensure_ascii=False, indent=4)
 
     print(f"Scraped {len(hotels)} hotels from Booking.com for {city}.")
 
@@ -90,4 +81,7 @@ def scrape_booking(city, checkin, checkout):
 checkin = "2025-01-01"
 checkout = "2025-01-02"
 city = "essaouira"
-scrape_booking(city, checkin, checkout)
+nb_adults = "2"
+nb_children = "0"
+nb_rooms = "1"
+scrape_booking(city, checkin, checkout, nb_adults, nb_rooms, nb_children)
