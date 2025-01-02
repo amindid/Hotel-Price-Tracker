@@ -1,10 +1,8 @@
 import time
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-# import csv
 import json
 
 def scrape_booking(city, checkin, checkout, nb_adults, nb_rooms, nb_children):
@@ -78,8 +76,8 @@ def scrape_booking(city, checkin, checkout, nb_adults, nb_rooms, nb_children):
     print(f"Scraped {len(hotels)} hotels from Booking.com for {city}.")
 
 # Example usage
-checkin = "2025-01-01"
-checkout = "2025-01-02"
+checkin = "2025-01-05"
+checkout = "2025-01-06"
 city = "essaouira"
 nb_adults = "2"
 nb_children = "0"

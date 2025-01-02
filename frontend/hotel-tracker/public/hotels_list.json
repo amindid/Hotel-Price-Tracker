@@ -1,10 +1,121 @@
 [
     {
-        "name": "Hotel Vents Des Iles",
+        "name": "Riad Dar Etto",
         "location": "Essaouira",
-        "price": "MAD 473",
-        "review_score": "Scored 8.6",
-        "review_count": "976 reviews",
+        "price": "MAD 627",
+        "review_score": "Scored 9.1",
+        "review_count": "403 reviews",
+        "details": [
+            "Deluxe Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hôtel Mechouar Plaza",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 424",
+        "review_score": "Scored 8.1",
+        "review_count": "1,223 reviews",
+        "details": [
+            "Budget Twin Room",
+            "2 twin beds",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad 7 Pierres",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 313",
+        "review_score": "Scored 8.8",
+        "review_count": "923 reviews",
+        "details": [
+            "Standard Triple Room",
+            "1 king bed",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad chez brahim",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 193",
+        "review_score": "Scored 8.0",
+        "review_count": "934 reviews",
+        "details": [
+            "Budget Double Room",
+            "1 queen bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Mama Souiri Hotel",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 352",
+        "review_score": "Scored 7.9",
+        "review_count": "2,105 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Essaouira Wind Palace",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 402",
+        "review_score": "Scored 8.1",
+        "review_count": "911 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hôtel Emeraude Essaouira",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 531",
+        "review_score": "Scored 8.5",
+        "review_count": "992 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Tweets Hotel",
+        "location": "Essaouira",
+        "price": "MAD 346",
+        "review_score": "Scored 8.4",
+        "review_count": "474 reviews",
+        "details": [
+            "Opera Double or Twin Room",
+            "Beds: 1 double or 2 twins",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Le Palazzo",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 1,477",
+        "review_score": "Scored 9.4",
+        "review_count": "400 reviews",
         "details": [
             "Standard Double Room",
             "1 queen bed",
@@ -13,79 +124,27 @@
         ]
     },
     {
-        "name": "Suite Azur Hotel",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 1,578",
-        "review_score": "Scored 9.0",
-        "review_count": "915 reviews",
-        "details": [
-            "Deluxe Double Room",
-            "1 queen bed",
-            "Breakfast included",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "RIAD Tamazouzt",
-        "location": "Mellah, Essaouira",
-        "price": "MAD 316",
-        "review_score": "Scored 8.3",
-        "review_count": "219 reviews",
-        "details": [
-            "Double Room with Private Bathroom",
-            "1 twin bed",
-            "Breakfast included",
-            "Free cancellation",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Zahra",
-        "location": "Essaouira Coast, Essaouira",
-        "price": "MAD 663",
-        "review_score": "Scored 8.7",
-        "review_count": "1,281 reviews",
+        "name": "Hotel Vents Des Iles",
+        "location": "Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 8.6",
+        "review_count": "980 reviews",
         "details": [
             "Standard Double Room",
-            "1 full bed",
+            "1 queen bed",
             "Breakfast included",
-            "Only 1 room left at this price on our site"
+            "Only 5 rooms left at this price on our site"
         ]
     },
     {
-        "name": "Jack's Apartments & Suites",
-        "location": "Kasbah, Essaouira",
-        "price": "MAD 1,210",
-        "review_score": "Scored 8.9",
-        "review_count": "1,097 reviews",
-        "details": [
-            "Studio Nadia",
-            "Entire studio • 1 bathroom • 30m²",
-            "1 queen bed",
-            "Only 2 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Dar Latigeo",
+        "name": "Riad Saltana",
         "location": "Old Medina, Essaouira",
-        "price": "MAD 265",
-        "review_score": "Scored 8.3",
-        "review_count": "477 reviews",
+        "price": "MAD 556",
+        "review_score": "Scored 8.5",
+        "review_count": "663 reviews",
         "details": [
-            "Les Pinsons - Double Room",
-            "1 queen bed",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Tweets Hotel",
-        "location": "Essaouira",
-        "price": "MAD 452",
-        "review_score": "Scored 8.4",
-        "review_count": "471 reviews",
-        "details": [
-            "Opera Double or Twin Room",
-            "Beds: 1 double or 2 twins",
+            "Comfort Double Room with Shower",
+            "1 full bed",
             "Breakfast included",
             "Free cancellation",
             "No prepayment needed – pay at the property",
@@ -93,48 +152,279 @@
         ]
     },
     {
-        "name": "ArtHouse Cinema Hotel",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 879",
-        "review_score": "Scored 8.8",
-        "review_count": "372 reviews",
-        "details": [
-            "Standard Double or Twin Room",
-            "Beds: 1 double or 2 twins",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Salut Maroc!",
-        "location": "Kasbah, Essaouira",
-        "price": "MAD 2,051",
+        "name": "Madada Mogador",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 1,158",
         "review_score": "Scored 9.0",
-        "review_count": "350 reviews",
+        "review_count": "403 reviews",
         "details": [
-            "Deluxe Double Room",
-            "1 king bed",
+            "Sabra Double Room",
+            "1 queen bed",
             "Breakfast included",
             "Only 1 room left at this price on our site"
         ]
     },
     {
-        "name": "Dar Nafoura-Mogador",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 619",
-        "review_score": "Scored 8.6",
-        "review_count": "360 reviews",
+        "name": "Essaouira Beach Hostel",
+        "location": "Essaouira",
+        "price": "MAD 379",
+        "review_score": "Scored 8.4",
+        "review_count": "2,420 reviews",
         "details": [
-            "Loubna Double Room",
+            "Twin Room with Sea View",
+            "2 twin beds",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Azul",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 420",
+        "review_score": "Scored 8.9",
+        "review_count": "1,125 reviews",
+        "details": [
+            "Double or Twin Room with Private Bathroom",
+            "Beds: 1 double or 2 twins",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Inna & Watersports Center",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 495",
+        "review_score": "Scored 8.6",
+        "review_count": "744 reviews",
+        "details": [
+            "Comfort Double Room",
+            "1 queen bed",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Nakhla",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 661",
+        "review_score": "Scored 7.9",
+        "review_count": "167 reviews",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 1 living room • 2 bathrooms",
+            "4 beds (2 twins, 1 sofa bed, 1 queen)",
+            "Breakfast included",
+            "Only 5 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Zawia",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 472",
+        "review_score": "Scored 9.2",
+        "review_count": "521 reviews",
+        "details": [
+            "King Room - Disability Access",
+            "1 queen bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "RIAD MAROSKO",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 1,058",
+        "review_score": "Scored 8.9",
+        "review_count": "1,168 reviews",
+        "details": [
+            "Superior Triple Room",
+            "2 beds (1 twin, 1 queen)",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Mumtaz Mahal",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 892",
+        "review_score": "Scored 8.7",
+        "review_count": "692 reviews",
+        "details": [
+            "Executive Double Suite",
+            "1 king bed",
+            "Breakfast included",
+            "Only 7 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "RIAD Tamazouzt",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 290",
+        "review_score": "Scored 8.3",
+        "review_count": "223 reviews",
+        "details": [
+            "Double Room with Private Bathroom",
+            "1 twin bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Le Grand Large",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 278",
+        "review_score": "Scored 7.8",
+        "review_count": "1,220 reviews",
+        "details": [
+            "Standard Double Room",
             "1 full bed",
+            "Only 5 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hotel Le Médina Essaouira Thalassa sea & spa – Mgallery",
+        "location": "Essaouira Coast, Essaouira",
+        "price": "MAD 2,322",
+        "review_score": "Scored 8.2",
+        "review_count": "1,259 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 king bed",
             "Breakfast included"
+        ]
+    },
+    {
+        "name": "Riad Chakir Mogador",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 579",
+        "review_score": "Scored 8.9",
+        "review_count": "727 reviews",
+        "details": [
+            "Double Room",
+            "2 beds (1 full, 1 sofa bed)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Jack's Apartments & Suites",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 1,102",
+        "review_score": "Scored 8.9",
+        "review_count": "1,101 reviews",
+        "details": [
+            "Flower Double Room",
+            "1 king bed",
+            "Breakfast included",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar Adul",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 820",
+        "review_score": "Scored 8.8",
+        "review_count": "616 reviews",
+        "details": [
+            "Wahad Suite",
+            "Private suite • 1 bedroom • 1 living room • 1 bathroom • 23m²",
+            "1 queen bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Essaouira wood house",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 587",
+        "review_score": "Scored 8.9",
+        "review_count": "49 reviews",
+        "details": [
+            "Three-Bedroom House",
+            "Entire vacation home • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 150m²",
+            "8 beds (4 twins, 1 full, 2 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "Suite Azur Hotel",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 1,993",
+        "review_score": "Scored 9.0",
+        "review_count": "919 reviews",
+        "details": [
+            "Deluxe Suite",
+            "Private suite",
+            "1 king bed",
+            "Breakfast included",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Les Matins Bleus",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 493",
+        "review_score": "Scored 8.7",
+        "review_count": "507 reviews",
+        "details": [
+            "Sebaa Double Room",
+            "2 twin beds",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad EspritBleu - Adult Only",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 1,628",
+        "review_score": "Scored 9.1",
+        "review_count": "253 reviews",
+        "details": [
+            "Junior Suite",
+            "Private suite • 1 bedroom • 1 living room • 1 bathroom • 26m²",
+            "1 queen bed",
+            "Breakfast included",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Zahra",
+        "location": "Essaouira Coast, Essaouira",
+        "price": "MAD 634",
+        "review_score": "Scored 8.7",
+        "review_count": "1,283 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Ocean Medina",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 493",
+        "review_score": "Scored 8.0",
+        "review_count": "696 reviews",
+        "details": [
+            "Double Room - Doukhala",
+            "Beds: 1 double or 2 twins",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 3 rooms left at this price on our site"
         ]
     },
     {
         "name": "Hotel Cote ocean Mogador",
         "location": "Essaouira Coast, Essaouira",
-        "price": "MAD 1,248",
+        "price": "MAD 1,237",
         "review_score": "Scored 8.5",
-        "review_count": "1,527 reviews",
+        "review_count": "1,532 reviews",
         "details": [
             "Standard Double Room",
             "Multiple bed types",
@@ -142,24 +432,785 @@
         ]
     },
     {
+        "name": "Riad Sidi Magdoul",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 269",
+        "review_score": "Scored 8.2",
+        "review_count": "307 reviews",
+        "details": [
+            "Cannelle Double Room",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Casa Lila & Spa",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 664",
+        "review_score": "Scored 8.7",
+        "review_count": "271 reviews",
+        "details": [
+            "Superior Double Room",
+            "Beds: 1 double or 2 twins",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar Ayman Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 990",
+        "review_score": "Scored 9.0",
+        "review_count": "109 reviews",
+        "details": [
+            "Garden View Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "La Maison Du Vent",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 567",
+        "review_score": "Scored 8.3",
+        "review_count": "432 reviews",
+        "details": [
+            "Double Room",
+            "1 queen bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Palais Des Remparts",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 820",
+        "review_score": "Scored 8.3",
+        "review_count": "225 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 king bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "ArtHouse Cinema Hotel",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 807",
+        "review_score": "Scored 8.8",
+        "review_count": "375 reviews",
+        "details": [
+            "Standard Double or Twin Room",
+            "Beds: 1 double or 2 twins",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Charming Apartment in Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 631",
+        "review_score": "Scored 9.1",
+        "review_count": "28 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)"
+        ]
+    },
+    {
+        "name": "Appart, Hotel & Café Agadir",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 420",
+        "review_score": "Scored 8.6",
+        "review_count": "1,174 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hôtel Des Iles",
+        "location": "Essaouira",
+        "price": "MAD 666",
+        "review_score": "Scored 6.5",
+        "review_count": "1,102 reviews",
+        "details": [
+            "Superior Bungalow",
+            "Entire bungalow • 1 bedroom • 1 bathroom • 27m²",
+            "2 twin beds"
+        ]
+    },
+    {
+        "name": "Riad Mellah",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 850",
+        "review_score": "Scored 8.9",
+        "review_count": "418 reviews",
+        "details": [
+            "Comfort Triple Room",
+            "Multiple bed types",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hollakitemorroco surf house",
+        "location": "Essaouira",
+        "price": "MAD 156",
+        "review_score": "Scored 10",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "2 beds (1 twin, 1 full) • Free crib always available"
+        ]
+    },
+    {
+        "name": "Hôtel La Perle de Mogador",
+        "location": "Essaouira",
+        "price": "MAD 736",
+        "review_score": "Scored 7.2",
+        "review_count": "781 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 king bed",
+            "Breakfast included",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Heure Bleue Palais - Relais & Châteaux",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 2,704",
+        "review_score": "Scored 9.0",
+        "review_count": "542 reviews",
+        "details": [
+            "Classic Double Room",
+            "Beds: 1 double or 2 twins",
+            "Breakfast included"
+        ]
+    },
+    {
+        "name": "Riad Bab Essaouira",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 903",
+        "review_score": "Scored 9.1",
+        "review_count": "677 reviews",
+        "details": [
+            "King Suite",
+            "2 beds (1 full, 1 sofa bed)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Tammam",
+        "location": "Essaouira",
+        "price": "MAD 641",
+        "review_score": "Scored 9.7",
+        "review_count": "10 reviews",
+        "details": [
+            "Double Room with Garden View",
+            "2 beds (1 twin, 1 queen)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
         "name": "Riad Eucalyptus",
         "location": "Essaouira",
-        "price": "MAD 876",
+        "price": "MAD 874",
         "review_score": "Scored 8.9",
-        "review_count": "357 reviews",
+        "review_count": "359 reviews",
         "details": [
             "Triple Room with Private Bathroom",
             "2 beds (1 twin, 1 full)",
             "Breakfast included",
-            "Only 2 left at this price on our site"
+            "Only 3 rooms left at this price on our site"
         ]
     },
     {
         "name": "Villa Quieta",
         "location": "Essaouira Coast, Essaouira",
-        "price": "MAD 1,420",
+        "price": "MAD 1,303",
         "review_score": "Scored 9.3",
-        "review_count": "605 reviews",
+        "review_count": "607 reviews",
+        "details": [
+            "Double Room",
+            "1 queen bed",
+            "Breakfast included",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hotel Dar El Qdima",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 488",
+        "review_score": "Scored 8.0",
+        "review_count": "296 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Only 6 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hôtel Riad Gnaoua",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 409",
+        "review_score": "Scored 7.8",
+        "review_count": "1,182 reviews",
+        "details": [
+            "Double Room (1 - 2 Adults)",
+            "1 king bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Résidence Louzani",
+        "location": "Essaouira",
+        "price": "MAD 695",
+        "review_score": "Scored 9.0",
+        "review_count": "347 reviews",
+        "details": [
+            "Apartment (2 Adults)",
+            "Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 65m²",
+            "1 queen bed",
+            "Free cancellation",
+            "Only 2 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar Halima",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 8.9",
+        "review_count": "654 reviews",
+        "details": [
+            "Triple Room",
+            "2 beds (1 twin, 1 full)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "DAR ORY",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 627",
+        "review_score": "Scored 9.1",
+        "review_count": "172 reviews",
+        "details": [
+            "Superior Double or Twin Room",
+            "1 queen bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Dar L'Oussia & SPA",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 1,216",
+        "review_score": "Scored 8.7",
+        "review_count": "230 reviews",
+        "details": [
+            "Standard Double or Twin Room",
+            "Beds: 1 double or 2 twins",
+            "Breakfast included",
+            "Only 7 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Mogador",
+        "location": "Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 9.0",
+        "review_count": "44 reviews",
+        "details": [
+            "Double Room",
+            "1 king bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "BABERRIH Hôtel Hospitality Palaces & Resorts",
+        "location": "Essaouira",
+        "price": "MAD 1,898",
+        "review_score": "Scored 9.2",
+        "review_count": "547 reviews",
+        "details": [
+            "Junior Suite with Garden View",
+            "Private suite • 1 bedroom • 1 living room • 1 bathroom • 44m²",
+            "2 beds (1 king, 1 sofa bed)",
+            "Breakfast included"
+        ]
+    },
+    {
+        "name": "Riyad zen oasis",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 8.8",
+        "review_count": "126 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Tamayourt Ocean View & piscine chauffée à 30",
+        "location": "Essaouira",
+        "price": "MAD 1,128",
+        "review_score": "Scored 9.2",
+        "review_count": "249 reviews",
+        "details": [
+            "Deluxe Double Room",
+            "2 beds (1 twin, 1 queen)",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Des Arganiers",
+        "location": "Essaouira",
+        "price": "MAD 1,385",
+        "review_score": "Scored 9.9",
+        "review_count": "9 reviews",
+        "details": [
+            "Triple Room",
+            "2 beds (1 twin, 1 queen)",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Joli appartement à Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 278",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Three-Bedroom Apartment",
+            "Entire apartment • 3 bedrooms • 2 living rooms • 1 bathroom • 1 kitchen • 85m²",
+            "5 beds (4 twins, 1 full)"
+        ]
+    },
+    {
+        "name": "Luxury Riad Mounia",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 577",
+        "review_score": "Scored 8.5",
+        "review_count": "230 reviews",
+        "details": [
+            "Double Room",
+            "1 twin bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar El Paco",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 609",
+        "review_score": "Scored 9.0",
+        "review_count": "633 reviews",
+        "details": [
+            "Touareg Double Room",
+            "2 beds (1 twin, 1 queen)",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Nour",
+        "location": "Essaouira",
+        "price": "MAD 682",
+        "review_score": "Scored 8.5",
+        "review_count": "453 reviews",
+        "details": [
+            "Double Room with Garden View",
+            "1 queen bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Essaouira Lodge",
+        "location": "Essaouira",
+        "price": "MAD 1,014",
+        "review_score": "Scored 8.3",
+        "review_count": "889 reviews",
+        "details": [
+            "Double Room with Panoramic View",
+            "1 queen bed",
+            "Breakfast included",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "La Fontaine Bleue",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 1,196",
+        "review_score": "Scored 9.4",
+        "review_count": "461 reviews",
+        "details": [
+            "Albayane Double Room",
+            "1 queen bed",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa La Rose Bleue - Résidence Hôtelière avec Piscine - Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 1,477",
+        "review_score": "Scored 10",
+        "review_count": "50 reviews",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 90m²",
+            "3 beds (2 twins, 1 queen)",
+            "Free cancellation",
+            "Only 3 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Horizon",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 753",
+        "review_score": "Scored 8.3",
+        "review_count": "38 reviews",
+        "details": [
+            "Double Room with Garden View",
+            "1 queen bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Ali Baba Infinity",
+        "location": "Essaouira",
+        "price": "MAD 2,424",
+        "review_score": "Scored 9.6",
+        "review_count": "64 reviews",
+        "details": [
+            "Tent",
+            "Tent",
+            "1 king bed",
+            "Breakfast included",
+            "Only 4 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Yousurf Surf House",
+        "location": "Essaouira",
+        "price": "MAD 641",
+        "review_score": "Scored 8.1",
+        "review_count": "364 reviews",
+        "details": [
+            "Studio with Terrace",
+            "Entire studio • 1 bathroom • 35m²",
+            "4 twin beds",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Joli Appartement à Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 309",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Three-Bedroom Apartment",
+            "Entire apartment • 3 bedrooms • 2 living rooms • 1 bathroom • 1 kitchen • 80m²",
+            "5 beds (4 twins, 1 full)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Villa Maya",
+        "location": "Essaouira",
+        "price": "MAD 956",
+        "review_score": "Scored 9.3",
+        "review_count": "120 reviews",
+        "details": [
+            "Double Room with Garden View",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "443Argana Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 325",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "5 beds (2 twins, 1 full, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Villa Margaux",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 514",
+        "review_score": "Scored 8.4",
+        "review_count": "292 reviews",
+        "details": [
+            "Superior Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Mimouna",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 960",
+        "review_score": "Scored 8.8",
+        "review_count": "625 reviews",
+        "details": [
+            "Double Room",
+            "Breakfast included"
+        ]
+    },
+    {
+        "name": "Riad Dar Latigeo",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 243",
+        "review_score": "Scored 8.3",
+        "review_count": "477 reviews",
+        "details": [
+            "Les Hirondelles Double Room",
+            "1 queen bed",
+            "Free cancellation",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartement Essaouira Résidence",
+        "location": "Essaouira",
+        "price": "MAD 347",
+        "review_score": "Scored 8.0",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 1 living room • 2 bathrooms • 1 kitchen • 67m²",
+            "4 beds (3 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "Riad Dar Maya",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 1,544",
+        "review_score": "Scored 9.1",
+        "review_count": "581 reviews",
+        "details": [
+            "Laafit Suite",
+            "Private suite",
+            "1 queen bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Dar Zayna",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 591",
+        "review_score": "Scored 7.9",
+        "review_count": "203 reviews",
+        "details": [
+            "Double Room",
+            "1 queen bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hostel La Smala",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 8.6",
+        "review_count": "1,397 reviews",
+        "details": [
+            "Double Room with Sea View - Shared Bathroom",
+            "1 full bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar Nafoura-Mogador",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 917",
+        "review_score": "Scored 8.6",
+        "review_count": "362 reviews",
+        "details": [
+            "Raya Quadruple Room",
+            "3 beds (2 twins, 1 full)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Atlas Essaouira Riad Resort",
+        "location": "Essaouira Coast, Essaouira",
+        "price": "MAD 1,202",
+        "review_score": "Scored 7.9",
+        "review_count": "1,670 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Only 6 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad dar Rhamna",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 459",
+        "review_score": "Scored 8.4",
+        "review_count": "331 reviews",
+        "details": [
+            "Triple Room",
+            "2 beds (1 twin, 1 full)",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar Al Bahar",
+        "location": "Essaouira",
+        "price": "MAD 630",
+        "review_score": "Scored 8.6",
+        "review_count": "601 reviews",
+        "details": [
+            "Malika Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Darko",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 157",
+        "review_score": "Scored 7.8",
+        "review_count": "500 reviews",
+        "details": [
+            "Family Studio",
+            "3 twin beds",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Salut Maroc!",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 2,896",
+        "review_score": "Scored 9.0",
+        "review_count": "352 reviews",
+        "details": [
+            "Deluxe Double Room with Sea View",
+            "1 queen bed",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hotel Al Arboussas",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 367",
+        "review_score": "Scored 8.2",
+        "review_count": "410 reviews",
+        "details": [
+            "Double Room with Private Bathroom",
+            "1 full bed",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartement erawnak",
+        "location": "Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 3.0",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)"
+        ]
+    },
+    {
+        "name": "RIAD LES DEUX MONDES",
+        "location": "Essaouira",
+        "price": "MAD 472",
+        "review_score": "Scored 8.3",
+        "review_count": "289 reviews",
+        "details": [
+            "Double Room - Disability Access",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Ocean Home",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 386",
+        "review_score": "Scored 7.1",
+        "review_count": "21 reviews",
+        "details": [
+            "Double Room with Sea View",
+            "1 king bed",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Babette",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 1,955",
+        "review_score": "Scored 9.3",
+        "review_count": "138 reviews",
+        "details": [
+            "Deluxe Room",
+            "2 beds (1 sofa bed, 1 queen)",
+            "Breakfast included",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad AYLAL",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 430",
+        "review_score": "Scored 8.2",
+        "review_count": "936 reviews",
         "details": [
             "Standard Twin Room",
             "2 twin beds",
@@ -168,182 +1219,181 @@
         ]
     },
     {
-        "name": "Caverne d'Ali Baba",
-        "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 656",
-        "review_score": "Scored 8.5",
-        "review_count": "400 reviews",
-        "details": [
-            "Alibaba Triple Room",
-            "2 beds (1 twin, 1 queen)",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Dar Nor",
-        "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 1,157",
-        "review_score": "Scored 9.0",
-        "review_count": "247 reviews",
-        "details": [
-            "Deluxe Double Room",
-            "1 king bed",
-            "Breakfast included",
-            "Free cancellation",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa Des Arganiers",
-        "location": "Essaouira",
-        "price": "MAD 1,893",
-        "review_score": "Scored 9.9",
-        "review_count": "9 reviews",
-        "details": [
-            "Superior Family Room",
-            "2 beds (1 sofa bed, 1 queen)",
-            "Breakfast included",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Hotel majestc",
+        "name": "La Casa Del Mar",
         "location": "Old Medina, Essaouira",
-        "price": "MAD 189",
-        "review_score": "Scored 7.8",
-        "review_count": "34 reviews",
-        "details": [
-            "Budget Double Room",
-            "1 full bed",
-            "Only 2 rooms left at this price on our site"
-        ]
-    },
-    {
-        "name": "Ali Baba Infinity",
-        "location": "Essaouira",
-        "price": "MAD 2,641",
-        "review_score": "Scored 9.6",
-        "review_count": "64 reviews",
-        "details": [
-            "Tent",
-            "Tent",
-            "1 king bed",
-            "Breakfast included",
-            "Only 3 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Tammam",
-        "location": "Essaouira",
-        "price": "MAD 894",
-        "review_score": "Scored 9.6",
-        "review_count": "5 reviews",
-        "details": [
-            "Studio with Pool View",
-            "Private suite • 1 bedroom • 1 living room • 1 bathroom • 30m²",
-            "3 beds (1 twin, 1 sofa bed, 1 queen)",
-            "Breakfast included",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa Mogador",
-        "location": "Essaouira",
-        "price": "MAD 631",
-        "review_score": "Scored 9.0",
-        "review_count": "44 reviews",
+        "price": "MAD 627",
+        "review_score": "Scored 8.3",
+        "review_count": "329 reviews",
         "details": [
             "Double Room",
-            "2 beds (1 twin, 1 king)",
-            "Free cancellation",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Diamant Blanc",
-        "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 1,373",
-        "review_score": "Scored 8.2",
-        "review_count": "576 reviews",
-        "details": [
-            "Junior Suite with Balcony",
-            "Private suite • 1 bedroom • 1 living room • 1 bathroom • 28m²",
-            "2 beds (1 king, 1 sofa bed)",
-            "Breakfast included",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad AYLAL",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 511",
-        "review_score": "Scored 8.2",
-        "review_count": "932 reviews",
-        "details": [
-            "Double Room",
-            "1 full bed",
-            "Breakfast included",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Dar Maya",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 1,683",
-        "review_score": "Scored 9.1",
-        "review_count": "579 reviews",
-        "details": [
-            "Tignna Suite",
-            "Private suite",
-            "1 queen bed",
-            "Breakfast included",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Raoud Rayhane",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 842",
-        "review_score": "Scored 8.9",
-        "review_count": "513 reviews",
-        "details": [
-            "Superior Double Room - Malaïka",
-            "1 queen bed",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Hôtel La Perle de Mogador",
-        "location": "Essaouira",
-        "price": "MAD 800",
-        "review_score": "Scored 7.2",
-        "review_count": "778 reviews",
-        "details": [
-            "Standard Double Room",
-            "1 king bed",
+            "2 queen beds",
             "Breakfast included",
             "Free cancellation",
             "Only 3 rooms left at this price on our site"
         ]
     },
     {
-        "name": "White And Blue",
+        "name": "Dar sidi mgdol",
         "location": "Old Medina, Essaouira",
-        "price": "MAD 263",
-        "review_score": "Scored 8.2",
-        "review_count": "690 reviews",
+        "price": "MAD 199",
+        "review_score": "Scored 7.2",
+        "review_count": "17 reviews",
         "details": [
-            "Double or Twin Room",
-            "2 twin beds",
+            "One-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom",
+            "3 beds (1 full, 2 sofa beds)",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Raoud Rayhane",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 839",
+        "review_score": "Scored 8.9",
+        "review_count": "515 reviews",
+        "details": [
+            "Superior Double Room - Yacout",
+            "1 queen bed",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Moga Appartment",
+        "location": "Essaouira",
+        "price": "MAD 473",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "2 twin beds"
+        ]
+    },
+    {
+        "name": "Luxueuse appartement Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 480",
+        "review_score": "Scored 8.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "2 beds (1 sofa bed, 1 queen)",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Mama Lova",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 2,368",
+        "review_score": "Scored 9.3",
+        "review_count": "166 reviews",
+        "details": [
+            "Luxury Quadruple Room",
+            "2 beds (1 king, 1 queen)",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Milal",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 312",
+        "review_score": "Scored 7.1",
+        "review_count": "391 reviews",
+        "details": [
+            "Double Room with Private Shower",
+            "1 queen bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Dar Nor",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 734",
+        "review_score": "Scored 9.0",
+        "review_count": "249 reviews",
+        "details": [
+            "Standard Triple Room",
+            "2 beds (1 twin, 1 full)",
+            "Breakfast included",
             "Free cancellation",
             "No prepayment needed – pay at the property",
             "Only 1 room left at this price on our site"
         ]
     },
     {
-        "name": "استمتع بالهدوء في شقة مثالية",
+        "name": "La Villa Sauvage",
         "location": "Essaouira",
-        "price": "MAD 1,818",
+        "price": "MAD 1,343",
+        "review_score": "Scored 9.5",
+        "review_count": "22 reviews",
+        "details": [
+            "Double Room with Terrace",
+            "1 queen bed",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "RIAD YANITRI",
+        "location": "Essaouira",
+        "price": "MAD 1,737",
+        "review_score": "Scored 9.6",
+        "review_count": "237 reviews",
+        "details": [
+            "Bungalow with Patio",
+            "Entire bungalow • 2 bedrooms • 1 living room • 2 bathrooms • 60m²",
+            "3 beds (2 twins, 1 queen)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Hotel majestc",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 174",
+        "review_score": "Scored 7.6",
+        "review_count": "37 reviews",
+        "details": [
+            "Budget Double Room",
+            "1 full bed",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar Tranquille",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 352",
+        "review_score": "Scored 8.3",
+        "review_count": "205 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Beldy",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 469",
+        "review_score": "Scored 8.2",
+        "review_count": "1,148 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "443 argana Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 325",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
@@ -352,48 +1402,340 @@
         ]
     },
     {
-        "name": "Riad Dar L'Oussia & SPA",
-        "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 2,367",
-        "review_score": "Scored 8.7",
-        "review_count": "228 reviews",
+        "name": "استمتع بالهدوء في شقة مثالية",
+        "location": "Essaouira",
+        "price": "MAD 1,668",
+        "review_score": "N/A",
+        "review_count": "N/A",
         "details": [
-            "Junior Suite",
-            "Private suite • 1 bedroom • 1 living room • 1 bathroom • 50m²",
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Caverne d'Ali Baba",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 421",
+        "review_score": "Scored 8.5",
+        "review_count": "403 reviews",
+        "details": [
+            "Aladin Triple Room",
+            "3 beds (2 twins, 1 full)",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Al Zahia",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 784",
+        "review_score": "Scored 8.5",
+        "review_count": "303 reviews",
+        "details": [
+            "Triple Room",
+            "3 twin beds",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Etoile De Mogador",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 514",
+        "review_score": "Scored 8.7",
+        "review_count": "567 reviews",
+        "details": [
+            "Double Room",
+            "1 queen bed",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Tigmi Anis",
+        "location": "Essaouira",
+        "price": "MAD 521",
+        "review_score": "Scored 9.3",
+        "review_count": "44 reviews",
+        "details": [
+            "Double Room with Terrace",
             "1 king bed",
             "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartement Essaouira près de la plage",
+        "location": "Essaouira",
+        "price": "MAD 347",
+        "review_score": "Scored 9.0",
+        "review_count": "80 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 54m²",
+            "6 beds (2 twins, 3 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Riad de charme l'Oasis d'Essaouira - Suite Luxe",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 1,009",
+        "review_score": "Scored 9.1",
+        "review_count": "24 reviews",
+        "details": [
+            "Deluxe Double Room (2 Adults + 1 Child)",
+            "2 beds (1 twin, 1 full)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Se ressourcer à Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 517",
+        "review_score": "Scored 9.5",
+        "review_count": "8 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "2 full beds",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Dar Saffron Essaouira",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 945",
+        "review_score": "Scored 9.0",
+        "review_count": "7 reviews",
+        "details": [
+            "Deluxe Apartment",
+            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom",
+            "2 beds (1 sofa bed, 1 queen)",
             "Only 1 left at this price on our site"
         ]
     },
     {
-        "name": "Hôtel Riad Gnaoua",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 820",
-        "review_score": "Scored 7.8",
-        "review_count": "1,181 reviews",
+        "name": "Dar Rahaothello",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 676",
+        "review_score": "Scored 8.9",
+        "review_count": "220 reviews",
         "details": [
-            "Double Room (1 - 2 Adults)",
-            "1 king bed",
+            "Double Room",
+            "2 beds (1 sofa bed, 1 queen)",
             "Breakfast included",
             "Free cancellation",
             "Only 4 rooms left at this price on our site"
         ]
     },
     {
-        "name": "Suite room and terrace",
+        "name": "Villa Beldi",
         "location": "Essaouira",
-        "price": "MAD 265",
-        "review_score": "N/A",
-        "review_count": "N/A",
+        "price": "MAD 1,922",
+        "review_score": "Scored 9.2",
+        "review_count": "189 reviews",
+        "details": [
+            "Suite Les Saintes",
+            "Entire bungalow • 1 bedroom • 1 living room • 1 bathroom • 41m²",
+            "3 beds (2 twins, 1 queen)",
+            "Breakfast included",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Douar Noujoum",
+        "location": "Essaouira",
+        "price": "MAD 472",
+        "review_score": "Scored 8.3",
+        "review_count": "70 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar sirin",
+        "location": "Essaouira",
+        "price": "MAD 386",
+        "review_score": "Scored 8.9",
+        "review_count": "28 reviews",
         "details": [
             "One-Bedroom Apartment",
-            "1 full bed"
+            "Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 30m²",
+            "1 full bed",
+            "Free cancellation",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa OutMama charme & comfort",
+        "location": "Essaouira",
+        "price": "MAD 2,541",
+        "review_score": "Scored 9.8",
+        "review_count": "40 reviews",
+        "details": [
+            "Villa",
+            "Entire villa • 4 bedrooms • 1 living room • 4 bathrooms • 1 kitchen • 1,000m²",
+            "6 beds (4 twins, 2 queens)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Essaouira I",
+        "location": "Essaouira Coast, Essaouira",
+        "price": "MAD 685",
+        "review_score": "Scored 9.2",
+        "review_count": "51 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 120m²",
+            "5 beds (2 twins, 2 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Appartement Yassine",
+        "location": "Essaouira",
+        "price": "MAD 492",
+        "review_score": "Scored 9.2",
+        "review_count": "44 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 75m²",
+            "4 beds (1 full, 3 sofa beds)"
+        ]
+    },
+    {
+        "name": "Dar Essaada",
+        "location": "Essaouira",
+        "price": "MAD 1,007",
+        "review_score": "Scored 8.8",
+        "review_count": "180 reviews",
+        "details": [
+            "Superior Quadruple Room",
+            "3 beds (2 twins, 1 queen)",
+            "Breakfast included",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Jade Mogador",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 519",
+        "review_score": "Scored 8.9",
+        "review_count": "532 reviews",
+        "details": [
+            "Mima Twin Room",
+            "2 twin beds",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Grenadine",
+        "location": "Essaouira",
+        "price": "MAD 463",
+        "review_score": "Scored 8.8",
+        "review_count": "212 reviews",
+        "details": [
+            "Double Room with Shared Bathroom",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Emotion",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 1,641",
+        "review_score": "Scored 9.4",
+        "review_count": "172 reviews",
+        "details": [
+            "Arganier Suite",
+            "Private suite",
+            "2 beds (1 king, 1 sofa bed)",
+            "Breakfast included",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar karam",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 290",
+        "review_score": "Scored 8.9",
+        "review_count": "357 reviews",
+        "details": [
+            "Twin Room with Private Bathroom",
+            "2 twin beds",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Wave Mogador",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 367",
+        "review_score": "Scored 8.9",
+        "review_count": "449 reviews",
+        "details": [
+            "Deluxe Double Room",
+            "1 king bed",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "The Chill Art Hostel",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 305",
+        "review_score": "Scored 8.8",
+        "review_count": "1,055 reviews",
+        "details": [
+            "Small Double Room",
+            "2 bunk beds",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Ghazal",
+        "location": "Essaouira",
+        "price": "MAD 779",
+        "review_score": "Scored 9.6",
+        "review_count": "101 reviews",
+        "details": [
+            "Deluxe Room (2 Adults + 1 Child)",
+            "1 queen bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Essaouira Youth Hostel & Social Travel",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 376",
+        "review_score": "Scored 8.4",
+        "review_count": "907 reviews",
+        "details": [
+            "Budget Twin Room",
+            "2 twin beds",
+            "Only 1 room left at this price on our site"
         ]
     },
     {
         "name": "Youss Appartement",
         "location": "Essaouira",
-        "price": "MAD 337",
+        "price": "MAD 309",
         "review_score": "Scored 9.2",
         "review_count": "88 reviews",
         "details": [
@@ -405,127 +1747,42 @@
         ]
     },
     {
-        "name": "WELKAM Home & Coworking",
-        "location": "Essaouira",
-        "price": "MAD 221",
-        "review_score": "Scored 9.6",
-        "review_count": "606 reviews",
-        "details": [
-            "Classic Double Room",
-            "1 full bed",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "BABERRIH Hôtel Hospitality Palaces & Resorts",
-        "location": "Essaouira",
-        "price": "MAD 3,503",
-        "review_score": "Scored 9.2",
-        "review_count": "545 reviews",
-        "details": [
-            "Deluxe Suite",
-            "Private suite • 2 bedrooms • 1 living room • 2 bathrooms • 60m²",
-            "4 beds (2 kings, 2 sofa beds)",
-            "Breakfast included",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Essaouira Lodge",
-        "location": "Essaouira",
-        "price": "MAD 1,995",
-        "review_score": "Scored 8.3",
-        "review_count": "887 reviews",
-        "details": [
-            "Two-Bedroom Apartment with Terrace",
-            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 65m²",
-            "3 beds (2 twins, 1 full)",
-            "Breakfast included"
-        ]
-    },
-    {
-        "name": "Hotel Riad Ben Atar",
+        "name": "Giraffe Hostel-Sea view Rooftop",
         "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 899",
-        "review_score": "Scored 7.9",
-        "review_count": "536 reviews",
+        "price": "MAD 413",
+        "review_score": "Scored 8.2",
+        "review_count": "183 reviews",
         "details": [
-            "Deluxe Double with Sea View",
+            "Double Room with Shared Bathroom",
             "1 queen bed",
             "Breakfast included",
+            "Free cancellation",
             "Only 1 room left at this price on our site"
         ]
     },
     {
-        "name": "Appartement erawnak",
-        "location": "Essaouira",
-        "price": "MAD 473",
-        "review_score": "Scored 3.0",
-        "review_count": "1 review",
-        "details": [
-            "Two-Bedroom Apartment",
-            "3 beds (2 twins, 1 full)"
-        ]
-    },
-    {
-        "name": "Dar Essaada",
-        "location": "Essaouira",
-        "price": "MAD 1,010",
-        "review_score": "Scored 8.8",
-        "review_count": "180 reviews",
-        "details": [
-            "Superior Quadruple Room",
-            "3 beds (2 twins, 1 queen)",
-            "Breakfast included",
-            "Only 2 rooms left at this price on our site"
-        ]
-    },
-    {
-        "name": "MOjA HOUSE",
-        "location": "Essaouira",
-        "price": "MAD 715",
-        "review_score": "Scored 8.8",
-        "review_count": "95 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 65m²",
-            "4 beds (2 twins, 1 king, 1 sofa bed) • Free crib always available",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Mogador Appartements T6",
-        "location": "Essaouira",
-        "price": "MAD 999",
+        "name": "Riad Gloria",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 1,129",
         "review_score": "Scored 8.9",
-        "review_count": "29 reviews",
+        "review_count": "250 reviews",
         "details": [
-            "Apartment",
-            "Entire apartment • 2 bedrooms • 2 living rooms • 1 bathroom • 1 kitchen • 80m²",
-            "7 beds (2 twins, 4 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
+            "Superior Double Room",
+            "1 king bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
         ]
     },
     {
-        "name": "Luxueuse appartement Essaouira",
+        "name": "Riad SABIDI",
         "location": "Essaouira",
-        "price": "MAD 563",
-        "review_score": "N/A",
-        "review_count": "N/A",
+        "price": "MAD 892",
+        "review_score": "Scored 9.7",
+        "review_count": "62 reviews",
         "details": [
-            "One-Bedroom Apartment",
-            "2 beds (1 sofa bed, 1 queen)"
-        ]
-    },
-    {
-        "name": "RIAD LES DEUX MONDES",
-        "location": "Essaouira",
-        "price": "MAD 631",
-        "review_score": "Scored 8.3",
-        "review_count": "287 reviews",
-        "details": [
-            "Double Room - Disability Access",
-            "1 full bed",
+            "Standard King Room",
+            "1 queen bed",
             "Breakfast included",
             "Free cancellation",
             "No prepayment needed – pay at the property",
@@ -533,111 +1790,303 @@
         ]
     },
     {
-        "name": "Maison Kasba Bonheur & Bien etre Emma & Gilles",
+        "name": "Résidence La Galiote",
         "location": "Essaouira",
-        "price": "MAD 2,209",
-        "review_score": "Scored 9.3",
-        "review_count": "136 reviews",
-        "details": [
-            "Deluxe Room",
-            "2 beds (1 twin, 1 full)",
-            "Breakfast included",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Ghazal",
-        "location": "Essaouira",
-        "price": "MAD 949",
-        "review_score": "Scored 9.6",
-        "review_count": "99 reviews",
-        "details": [
-            "Deluxe Double Room (2 Adults + 1 Child)",
-            "2 beds (1 twin, 1 full)",
-            "Breakfast included",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Hôtel Des Iles",
-        "location": "Essaouira",
-        "price": "MAD 785",
-        "review_score": "Scored 6.5",
-        "review_count": "1,098 reviews",
-        "details": [
-            "Superior Double Room"
-        ]
-    },
-    {
-        "name": "Riad Gloria",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 1,562",
-        "review_score": "Scored 8.9",
-        "review_count": "250 reviews",
-        "details": [
-            "Double Room",
-            "2 twin beds",
-            "Breakfast included",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Abdessamad Appartement 2",
-        "location": "Essaouira",
-        "price": "MAD 426",
-        "review_score": "Scored 9.3",
-        "review_count": "53 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "7 beds (2 twins, 4 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Nakhla",
-        "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 663",
-        "review_score": "Scored 7.9",
-        "review_count": "165 reviews",
-        "details": [
-            "Double or Twin Room",
-            "Multiple bed types",
-            "Breakfast included",
-            "Only 4 rooms left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa Grenadine",
-        "location": "Essaouira",
-        "price": "MAD 589",
+        "price": "MAD 734",
         "review_score": "Scored 8.8",
-        "review_count": "212 reviews",
+        "review_count": "297 reviews",
         "details": [
-            "Double Room with Private Bathroom",
-            "1 full bed",
-            "Breakfast included",
+            "Apartment (4 Adults)",
+            "Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 70m²",
+            "3 beds (2 twins, 1 full)",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Atlantic Hostel",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 347",
+        "review_score": "Scored 8.5",
+        "review_count": "1,173 reviews",
+        "details": [
+            "Triple Room",
+            "3 twin beds",
             "Only 1 room left at this price on our site"
         ]
     },
     {
         "name": "la fromagerie essaouira",
         "location": "Essaouira",
-        "price": "MAD 736",
-        "review_score": "Scored 8.3",
-        "review_count": "77 reviews",
+        "price": "MAD 676",
+        "review_score": "Scored 8.2",
+        "review_count": "79 reviews",
         "details": [
             "Double Room (1 Adult + 1 Child)",
             "2 beds (1 twin, 1 full)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 5 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa des Hauts Mogador",
+        "location": "Essaouira",
+        "price": "MAD 1,375",
+        "review_score": "Scored 9.6",
+        "review_count": "190 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Kamilia Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 782",
+        "review_score": "Scored 7.9",
+        "review_count": "168 reviews",
+        "details": [
+            "Double Room with Garden View",
+            "1 king bed",
+            "Breakfast included",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Studio climatisé indépendant avec piscine",
+        "location": "Essaouira",
+        "price": "MAD 434",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Villa",
+            "Entire villa • 1 bedroom • 1 bathroom • 30m²",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Riad Al Madina",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 432",
+        "review_score": "Scored 8.0",
+        "review_count": "808 reviews",
+        "details": [
+            "Double Double Standard",
+            "1 queen bed"
+        ]
+    },
+    {
+        "name": "Family Flat",
+        "location": "Essaouira Coast, Essaouira",
+        "price": "MAD 459",
+        "review_score": "Scored 9.5",
+        "review_count": "22 reviews",
+        "details": [
+            "Superior Studio",
+            "Entire studio • 1 bathroom • 1 kitchen • 50m²",
+            "4 beds (1 king, 1 bunk bed, 2 sofa beds)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Libert'Art",
+        "location": "Essaouira",
+        "price": "MAD 415",
+        "review_score": "Scored 9.6",
+        "review_count": "169 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "La Maison du Belvédère",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 614",
+        "review_score": "Scored 9.0",
+        "review_count": "8 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
             "Breakfast included",
             "Only 2 rooms left at this price on our site"
         ]
     },
     {
+        "name": "Villa Azul",
+        "location": "Essaouira",
+        "price": "MAD 1,529",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Villa",
+            "Entire villa • 1 bedroom • 1 living room • 4 bathrooms • 1 kitchen • 200m²",
+            "2 beds (1 twin, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Dar ZINZIN",
+        "location": "Essaouira",
+        "price": "MAD 1,245",
+        "review_score": "Scored 9.7",
+        "review_count": "3 reviews",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 3 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 250m²",
+            "9 beds (6 twins, 2 fulls, 1 sofa bed)",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Hinata",
+        "location": "Essaouira",
+        "price": "MAD 1,216",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 2 bathrooms",
+            "3 beds (2 twins, 1 full)"
+        ]
+    },
+    {
+        "name": "Villa Moon",
+        "location": "Essaouira",
+        "price": "MAD 1,307",
+        "review_score": "Scored 9.2",
+        "review_count": "5 reviews",
+        "details": [
+            "Three-Bedroom Apartment",
+            "Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 176m²",
+            "9 beds (2 twins, 1 full, 5 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "Le petit Chalet.",
+        "location": "Essaouira",
+        "price": "MAD 591",
+        "review_score": "Scored 9.0",
+        "review_count": "7 reviews",
+        "details": [
+            "Two-Bedroom Chalet",
+            "Entire chalet • 2 bedrooms • 2 bathrooms • 1 kitchen • 85m²",
+            "3 beds (2 twins, 1 full)"
+        ]
+    },
+    {
+        "name": "Logement entier avec wifi Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 612",
+        "review_score": "Scored 7.9",
+        "review_count": "7 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "3 beds (2 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Dar baraka",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 283",
+        "review_score": "Scored 6.8",
+        "review_count": "13 reviews",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 1 living room • 1 bathroom • 70m²",
+            "6 beds (3 twins, 1 full, 2 sofa beds)",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Porte de mer Apartement",
+        "location": "Essaouira",
+        "price": "MAD 348",
+        "review_score": "Scored 9.1",
+        "review_count": "43 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Arinas",
+        "location": "El Menzeh, Essaouira",
+        "price": "MAD 492",
+        "review_score": "Scored 9.8",
+        "review_count": "5 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "3 beds (2 twins, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Riad les trois merveilles",
+        "location": "Essaouira",
+        "price": "MAD 525",
+        "review_score": "Scored 9.4",
+        "review_count": "75 reviews",
+        "details": [
+            "Double Room with Garden View",
+            "1 queen bed",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 5 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartements la grotte",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 820",
+        "review_score": "Scored 8.8",
+        "review_count": "145 reviews",
+        "details": [
+            "Three-Bedroom Apartment",
+            "Entire apartment • 3 bedrooms • 1 bathroom • 1 kitchen • 84m²",
+            "4 beds (2 twins, 2 fulls)",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa L Walida - Piscine chauffée",
+        "location": "Essaouira",
+        "price": "MAD 3,378",
+        "review_score": "Scored 9.0",
+        "review_count": "46 reviews",
+        "details": [
+            "Villa with Private Pool",
+            "Entire villa • 5 bedrooms • 2 living rooms • 4 bathrooms • 1 kitchen • 300m²",
+            "12 beds (1 twin, 4 fulls, 1 king, 6 sofa beds)",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Mogador By Solena 2",
+        "location": "Essaouira",
+        "price": "MAD 1,095",
+        "review_score": "Scored 9.0",
+        "review_count": "3 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "4 beds (2 twins, 1 king, 1 sofa bed)",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
         "name": "Villa Nour Al-Khalil",
         "location": "Essaouira",
-        "price": "MAD 2,798",
-        "review_score": "Scored 9.2",
-        "review_count": "30 reviews",
+        "price": "MAD 2,311",
+        "review_score": "Scored 8.9",
+        "review_count": "31 reviews",
         "details": [
             "Villa",
             "Entire villa • 4 bedrooms • 2 living rooms • 4 bathrooms • 1 kitchen • 450m²",
@@ -646,126 +2095,361 @@
         ]
     },
     {
-        "name": "Residence Essaouira Mogador",
+        "name": "Essaouira Cool apartments",
         "location": "Essaouira",
-        "price": "MAD 284",
-        "review_score": "Scored 6.6",
-        "review_count": "123 reviews",
+        "price": "MAD 734",
+        "review_score": "Scored 9.0",
+        "review_count": "60 reviews",
         "details": [
-            "Deluxe Room (2 Adults + 1 Child)",
-            "3 twin beds",
+            "Three-Bedroom Apartment",
+            "Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²",
+            "6 beds (4 twins, 1 full, 1 sofa bed)",
+            "Free cancellation",
+            "No prepayment needed – pay at the property"
+        ]
+    },
+    {
+        "name": "Riad Titima Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 609",
+        "review_score": "Scored 9.4",
+        "review_count": "399 reviews",
+        "details": [
+            "Double Room with Garden View",
+            "2 beds (1 twin, 1 full)",
+            "Breakfast included",
             "Free cancellation",
             "Only 1 room left at this price on our site"
         ]
     },
     {
-        "name": "Appartements la grotte",
-        "location": "Kasbah, Essaouira",
-        "price": "MAD 947",
-        "review_score": "Scored 8.8",
-        "review_count": "143 reviews",
+        "name": "Appartement l'opale",
+        "location": "Essaouira",
+        "price": "MAD 261",
+        "review_score": "Scored 6.9",
+        "review_count": "26 reviews",
         "details": [
-            "Apartment with Sea View",
-            "Entire apartment • 1 bedroom • 1 bathroom • 1 kitchen • 18m²",
-            "1 full bed",
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)",
             "Only 1 left at this price on our site"
         ]
     },
     {
-        "name": "Villa Moon",
-        "location": "Essaouira",
-        "price": "MAD 1,424",
-        "review_score": "Scored 9.2",
-        "review_count": "5 reviews",
+        "name": "Dar Berg barod",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 294",
+        "review_score": "Scored 6.7",
+        "review_count": "10 reviews",
         "details": [
-            "Three-Bedroom Apartment",
-            "Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 176m²",
-            "9 beds (2 twins, 1 full, 5 sofa beds, 1 queen)",
+            "Three-Bedroom House",
+            "Entire vacation home • 3 bedrooms • 1 living room • 2 bathrooms • 70m²",
+            "8 beds (2 twins, 2 fulls, 4 sofa beds)",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
             "Only 1 left at this price on our site"
         ]
     },
     {
-        "name": "Villa Tremoulet Essaouira",
+        "name": "élégant appartement Essaouira",
         "location": "Essaouira",
-        "price": "MAD 789",
-        "review_score": "Scored 10",
-        "review_count": "4 reviews",
+        "price": "MAD 608",
+        "review_score": "Scored 8.6",
+        "review_count": "19 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 70m²",
+            "2 full beds",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "1 min de la plage",
+        "location": "Essaouira",
+        "price": "MAD 452",
+        "review_score": "Scored 7.4",
+        "review_count": "21 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 2 living rooms • 1 bathroom • 1 kitchen • 85m²",
+            "5 beds (2 twins, 1 full, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Prada appartement Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 695",
+        "review_score": "Scored 9.1",
+        "review_count": "24 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom",
+            "3 beds (2 twins, 1 king)"
+        ]
+    },
+    {
+        "name": "Tarbouche on the Beach",
+        "location": "Essaouira",
+        "price": "MAD 724",
+        "review_score": "Scored 7.6",
+        "review_count": "16 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "5 beds (2 twins, 2 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Residence Essaouira Mogador",
+        "location": "Essaouira",
+        "price": "MAD 261",
+        "review_score": "Scored 6.6",
+        "review_count": "125 reviews",
+        "details": [
+            "Deluxe Room (2 Adults + 1 Child)",
+            "3 twin beds",
+            "Free cancellation",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Les jardins de Silona, piscine chauffée",
+        "location": "Essaouira",
+        "price": "MAD 1,158",
+        "review_score": "Scored 9.8",
+        "review_count": "36 reviews",
         "details": [
             "Double Room",
             "1 full bed",
             "Breakfast included",
-            "Only 2 rooms left at this price on our site"
-        ]
-    },
-    {
-        "name": "Hotel Coeur de Mogador",
-        "location": "Mellah, Essaouira",
-        "price": "MAD 263",
-        "review_score": "Scored 7.3",
-        "review_count": "287 reviews",
-        "details": [
-            "Double Room with Private Bathroom",
-            "1 queen bed",
             "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa Mogador By Solena",
-        "location": "Essaouira",
-        "price": "MAD 1,098",
-        "review_score": "Scored 8.8",
-        "review_count": "20 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "5 beds (2 twins, 1 king, 2 sofa beds)",
-            "Only 1 left at this price on our site"
         ]
     },
     {
         "name": "Apartment with 2 bedrooms",
         "location": "Essaouira",
-        "price": "MAD 340",
+        "price": "MAD 304",
         "review_score": "Scored 8.5",
-        "review_count": "33 reviews",
+        "review_count": "34 reviews",
         "details": [
             "Two-Bedroom Apartment",
             "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 98m²",
-            "6 beds (2 twins, 1 king, 1 bunk bed, 2 sofa beds)",
+            "6 beds (2 twins, 1 king, 1 bunk bed, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "dar leena",
+        "location": "Essaouira",
+        "price": "MAD 347",
+        "review_score": "Scored 8.2",
+        "review_count": "84 reviews",
+        "details": [
+            "Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 85m²",
+            "5 beds (3 twins, 1 full, 1 sofa bed)",
+            "Free cancellation",
             "Only 1 left at this price on our site"
         ]
     },
     {
-        "name": "Luxury Riad Mounia",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 1,262",
-        "review_score": "Scored 8.5",
-        "review_count": "230 reviews",
+        "name": "Tassourt Lodge",
+        "location": "Essaouira",
+        "price": "MAD 661",
+        "review_score": "Scored 8.9",
+        "review_count": "192 reviews",
         "details": [
-            "Triple Room with City View",
-            "3 twin beds",
+            "Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Chez Aimad",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 197",
+        "review_score": "Scored 7.3",
+        "review_count": "22 reviews",
+        "details": [
+            "Quadruple Room with Private Bathroom",
+            "3 beds (2 twins, 1 king)",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar iva",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 283",
+        "review_score": "Scored 7.0",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 1 living room • 1 bathroom",
+            "7 beds (3 twins, 1 full, 3 sofa beds)",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appart Ayoub",
+        "location": "Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 9.6",
+        "review_count": "116 reviews",
+        "details": [
+            "Deluxe Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 100m²",
+            "9 beds (2 twins, 6 sofa beds, 1 queen)",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Abdessamad Appartement 2",
+        "location": "Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 9.3",
+        "review_count": "53 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "7 beds (2 twins, 4 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Riad Bini-Ddik",
+        "location": "Essaouira",
+        "price": "MAD 680",
+        "review_score": "Scored 9.3",
+        "review_count": "44 reviews",
+        "details": [
+            "Double or Twin Room",
+            "1 king bed",
             "Breakfast included",
             "Only 1 room left at this price on our site"
         ]
     },
     {
-        "name": "Aziki",
-        "location": "Essaouira",
-        "price": "MAD 421",
-        "review_score": "Scored 8.7",
-        "review_count": "86 reviews",
+        "name": "Riad Dar Latifa",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 369",
+        "review_score": "Scored 8.2",
+        "review_count": "394 reviews",
         "details": [
-            "Standard Double Room",
-            "2 twin beds",
+            "Double Room",
+            "1 full bed",
             "Breakfast included",
             "Free cancellation",
-            "No prepayment needed – pay at the property",
             "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Ambre appartement",
+        "location": "Essaouira",
+        "price": "MAD 574",
+        "review_score": "Scored 9.7",
+        "review_count": "24 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 60m²",
+            "3 beds (1 king, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Riad Etoile D'essaouira",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 469",
+        "review_score": "Scored 8.0",
+        "review_count": "546 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "berber hostel",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 347",
+        "review_score": "Scored 8.4",
+        "review_count": "452 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Coriandre",
+        "location": "Essaouira",
+        "price": "MAD 443",
+        "review_score": "Scored 10",
+        "review_count": "5 reviews",
+        "details": [
+            "Twin Room",
+            "Beds: 1 double or 2 twins",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "شقة بإقامة الجوهرة الصويرة",
+        "location": "Essaouira",
+        "price": "MAD 425",
+        "review_score": "Scored 8.1",
+        "review_count": "46 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 67m²",
+            "7 beds (2 twins, 4 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Galeria my home BAB BHAR",
+        "location": "Essaouira",
+        "price": "MAD 695",
+        "review_score": "Scored 8.1",
+        "review_count": "8 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "2 beds (1 sofa bed, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Hotel Coeur de Mogador",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 241",
+        "review_score": "Scored 7.3",
+        "review_count": "290 reviews",
+        "details": [
+            "Double Room with Private Bathroom",
+            "1 queen bed",
+            "Free cancellation",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "الصويرة",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 591",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "8 beds (2 twins, 2 fulls, 2 kings, 2 queens)",
+            "Only 1 left at this price on our site"
         ]
     },
     {
         "name": "Cavanna Lodge",
         "location": "Essaouira",
-        "price": "MAD 1,052",
+        "price": "MAD 1,049",
         "review_score": "Scored 10",
         "review_count": "4 reviews",
         "details": [
@@ -776,48 +2460,220 @@
         ]
     },
     {
-        "name": "zazou",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 526",
-        "review_score": "Scored 8.3",
-        "review_count": "107 reviews",
+        "name": "Résidence jouhra",
+        "location": "Essaouira",
+        "price": "MAD 264",
+        "review_score": "Scored 4.8",
+        "review_count": "6 reviews",
         "details": [
-            "Apartment",
-            "Entire apartment • 1 bedroom • 2 bathrooms • 1 kitchen • 64m²",
-            "2 beds (1 twin, 1 full)",
+            "Two-Bedroom Apartment",
+            "6 beds (1 full, 5 sofa beds)",
             "Only 1 left at this price on our site"
         ]
     },
     {
-        "name": "Las terrazas Mogador",
+        "name": "Maison Othmane",
         "location": "Essaouira",
-        "price": "MAD 939",
-        "review_score": "Scored 9.8",
-        "review_count": "26 reviews",
+        "price": "MAD 338",
+        "review_score": "Scored 7.7",
+        "review_count": "53 reviews",
         "details": [
-            "Apartment",
-            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 100m²",
-            "5 beds (2 twins, 1 full, 2 sofa beds)",
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 bathroom • 1 kitchen • 75m²",
+            "3 beds (1 twin, 2 fulls)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "En plein cœur de la médina",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 608",
+        "review_score": "Scored 6.6",
+        "review_count": "9 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "2 beds (1 full, 1 queen)"
+        ]
+    },
+    {
+        "name": "Salty",
+        "location": "Essaouira",
+        "price": "MAD 666",
+        "review_score": "Scored 7.8",
+        "review_count": "9 reviews",
+        "details": [
+            "Triple Room with Balcony",
+            "3 beds (2 twins, 1 full)",
+            "Breakfast included",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "appartement Lalla ghita essaouira",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 676",
+        "review_score": "Scored 9.0",
+        "review_count": "4 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 2 living rooms • 1 bathroom • 1 kitchen • 86m²",
+            "3 beds (2 twins, 1 full)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Hotel Riad Ben Atar",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 852",
+        "review_score": "Scored 7.9",
+        "review_count": "539 reviews",
+        "details": [
+            "Junior Suite",
+            "Private suite • 1 bedroom • 1 living room • 1 bathroom • 30m²",
+            "2 beds (1 sofa bed, 1 queen)",
+            "Breakfast included",
             "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Aziki",
+        "location": "Essaouira",
+        "price": "MAD 420",
+        "review_score": "Scored 8.7",
+        "review_count": "86 reviews",
+        "details": [
+            "Standard Double Room",
+            "2 twin beds",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 3 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Moulay's House",
+        "location": "Essaouira",
+        "price": "MAD 565",
+        "review_score": "Scored 9.5",
+        "review_count": "2 reviews",
+        "details": [
+            "Deluxe Double Room",
+            "1 full bed",
+            "Only 2 rooms left at this price on our site"
         ]
     },
     {
         "name": "Red House",
         "location": "Essaouira",
-        "price": "MAD 473",
+        "price": "MAD 434",
         "review_score": "Scored 9.0",
-        "review_count": "27 reviews",
+        "review_count": "28 reviews",
         "details": [
             "Two-Bedroom Apartment",
             "Entire apartment • 2 bedrooms • 2 living rooms • 1 bathroom • 1 kitchen • 108m²",
             "11 beds (2 twins, 1 full, 8 sofa beds)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Dar Reda Bidaoui",
+        "location": "Essaouira",
+        "price": "MAD 143",
+        "review_score": "Scored 1.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "4 beds (1 full, 3 sofa beds)"
+        ]
+    },
+    {
+        "name": "Tafokt 2",
+        "location": "Essaouira",
+        "price": "MAD 247",
+        "review_score": "Scored 8.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "3 beds (1 twin, 1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Chambre au Doux Refuge",
+        "location": "Essaouira",
+        "price": "MAD 386",
+        "review_score": "Scored 8.6",
+        "review_count": "5 reviews",
+        "details": [
+            "One-Bedroom Villa",
+            "Entire villa • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 20m²",
+            "2 beds (1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Appartement essaouira proche de la mer",
+        "location": "Essaouira",
+        "price": "MAD 591",
+        "review_score": "Scored 10",
+        "review_count": "3 reviews",
+        "details": [
+            "Three-Bedroom Apartment",
+            "4 beds (2 twins, 2 fulls)"
+        ]
+    },
+    {
+        "name": "Dar Ann",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 434",
+        "review_score": "Scored 8.4",
+        "review_count": "7 reviews",
+        "details": [
+            "Double Room with Private Bathroom",
+            "1 full bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa azure",
+        "location": "Essaouira",
+        "price": "MAD 1,255",
+        "review_score": "Scored 9.5",
+        "review_count": "4 reviews",
+        "details": [
+            "Villa",
+            "Entire villa • 5 bedrooms • 1 living room • 5 bathrooms",
+            "6 beds (2 twins, 4 fulls)",
             "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Dar Afram",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 927",
+        "review_score": "Scored 9.2",
+        "review_count": "258 reviews",
+        "details": [
+            "Comfort Triple Room with Shower",
+            "2 beds (1 twin, 1 queen)",
+            "Breakfast included",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartement jinan",
+        "location": "Essaouira",
+        "price": "MAD 417",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "4 beds (2 twins, 1 full, 1 sofa bed)"
         ]
     },
     {
         "name": "Appartement pied dans l'eau",
         "location": "Old Medina, Essaouira",
-        "price": "MAD 1,041",
+        "price": "MAD 956",
         "review_score": "Scored 6.6",
         "review_count": "7 reviews",
         "details": [
@@ -828,209 +2684,120 @@
         ]
     },
     {
-        "name": "Riad de charme l'Oasis d'Essaouira - Suite Luxe",
-        "location": "Mellah, Essaouira",
-        "price": "MAD 1,099",
-        "review_score": "Scored 9.1",
-        "review_count": "23 reviews",
-        "details": [
-            "Deluxe Double Room (2 Adults + 1 Child)",
-            "2 beds (1 twin, 1 full)",
-            "Breakfast included",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "House 43",
+        "name": "Samad apartments",
         "location": "Old Medina, Essaouira",
-        "price": "MAD 526",
-        "review_score": "Scored 9.0",
-        "review_count": "7 reviews",
-        "details": [
-            "Two-Bedroom House",
-            "Entire vacation home • 2 bedrooms • 1 living room • 1 bathroom",
-            "3 beds (2 twins, 1 full)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Barj 1",
-        "location": "Essaouira",
-        "price": "MAD 227",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "1 full bed"
-        ]
-    },
-    {
-        "name": "La Maison du Belvédère",
-        "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 615",
-        "review_score": "Scored 9.0",
-        "review_count": "6 reviews",
-        "details": [
-            "Double Room",
-            "1 full bed",
-            "Breakfast included",
-            "Only 2 rooms left at this price on our site"
-        ]
-    },
-    {
-        "name": "Dar khadija",
-        "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 1,788",
-        "review_score": "Scored 8.0",
-        "review_count": "9 reviews",
-        "details": [
-            "Standard Double Room",
-            "1 full bed",
-            "Only 3 rooms left at this price on our site"
-        ]
-    },
-    {
-        "name": "Dar lmedina",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 218",
-        "review_score": "Scored 7.7",
-        "review_count": "4 reviews",
-        "details": [
-            "Double Room",
-            "3 queen beds",
-            "Only 1 room left at this price on our site"
-        ]
-    },
-    {
-        "name": "1 min de la plage",
-        "location": "Essaouira",
-        "price": "MAD 418",
+        "price": "MAD 469",
         "review_score": "Scored 7.4",
-        "review_count": "20 reviews",
+        "review_count": "53 reviews",
         "details": [
-            "Two-Bedroom Apartment",
-            "Entire apartment • 2 bedrooms • 2 living rooms • 1 bathroom • 1 kitchen • 85m²",
-            "5 beds (2 twins, 1 full, 2 sofa beds)",
-            "Only 1 left at this price on our site"
+            "Three-Bedroom Apartment",
+            "Entire apartment • 3 bedrooms • 2 bathrooms • 1 kitchen • 100m²",
+            "4 beds (1 twin, 3 kings)"
         ]
     },
     {
-        "name": "Porte de mer Apartement",
+        "name": "Apt Le Cosy près de la plage",
         "location": "Essaouira",
-        "price": "MAD 1,157",
-        "review_score": "Scored 9.1",
-        "review_count": "43 reviews",
-        "details": [
-            "One-Bedroom Apartment",
-            "1 full bed",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartement Ghita Essaouira",
-        "location": "Essaouira",
-        "price": "MAD 833",
+        "price": "MAD 660",
         "review_score": "Scored 10",
-        "review_count": "4 reviews",
+        "review_count": "1 review",
         "details": [
-            "Two-Bedroom Apartment with Terrace and Sea View",
-            "Entire apartment • 2 bedrooms • 2 living rooms • 1 bathroom • 1 kitchen • 85m²",
-            "6 beds (2 twins, 1 king, 3 sofa beds)",
-            "Free cancellation",
-            "Only 1 left at this price on our site"
+            "Two-Bedroom Apartment with Balcony",
+            "Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 90m²",
+            "4 beds (2 twins, 1 sofa bed, 1 queen)"
         ]
     },
     {
-        "name": "الصويرة",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 644",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "8 beds (2 twins, 2 fulls, 2 kings, 2 queens)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Apparemment Tout Confort Wifi",
+        "name": "Résidence jawharat mogador",
         "location": "Essaouira",
-        "price": "MAD 1,207",
+        "price": "MAD 434",
         "review_score": "Scored 7.9",
         "review_count": "10 reviews",
         "details": [
-            "One-Bedroom Apartment",
-            "3 beds (1 twin, 2 sofa beds)",
-            "Only 1 left at this price on our site"
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 2 bathrooms",
+            "3 beds (1 twin, 1 full, 1 king)"
         ]
     },
     {
-        "name": "Dar Ayman Essaouira",
+        "name": "ثافوكة 2",
         "location": "Essaouira",
-        "price": "MAD 1,080",
-        "review_score": "Scored 9.0",
-        "review_count": "108 reviews",
+        "price": "MAD 278",
+        "review_score": "Scored 7.0",
+        "review_count": "6 reviews",
         "details": [
-            "Comfort Triple Room",
-            "3 twin beds",
-            "Breakfast included",
+            "Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 60m²",
+            "5 beds (1 full, 2 kings, 2 sofa beds)",
             "Free cancellation"
         ]
     },
     {
-        "name": "Résidence jouhra",
+        "name": "Villa iyad",
         "location": "Essaouira",
-        "price": "MAD 288",
-        "review_score": "Scored 4.8",
-        "review_count": "6 reviews",
+        "price": "MAD 630",
+        "review_score": "Scored 7.2",
+        "review_count": "15 reviews",
         "details": [
-            "Two-Bedroom Apartment",
-            "6 beds (1 full, 5 sofa beds)",
-            "Only 1 left at this price on our site"
+            "Two-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 1 living room • 2 bathrooms • 1,000m²",
+            "8 beds (3 twins, 2 fulls, 3 sofa beds)",
+            "Free cancellation",
+            "No prepayment needed – pay at the property",
+            "Only 2 left at this price on our site"
         ]
     },
     {
-        "name": "Appartement essaouira proche de la mer",
+        "name": "Apparemment KANZA",
         "location": "Essaouira",
-        "price": "MAD 644",
-        "review_score": "Scored 10",
-        "review_count": "3 reviews",
+        "price": "MAD 311",
+        "review_score": "Scored 5.8",
+        "review_count": "5 reviews",
         "details": [
-            "Three-Bedroom Apartment",
-            "4 beds (2 twins, 2 fulls)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "شقة بإقامة الجوهرة الصويرة الصويرة",
-        "location": "Essaouira",
-        "price": "MAD 492",
-        "review_score": "Scored 8.7",
-        "review_count": "9 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 67m²",
-            "7 beds (2 twins, 4 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
+            "One-Bedroom Apartment",
+            "4 beds (3 sofa beds, 1 queen)",
+            "Free cancellation"
         ]
     },
     {
         "name": "Dar Betty",
         "location": "Essaouira",
-        "price": "MAD 549",
+        "price": "MAD 504",
         "review_score": "Scored 8.4",
         "review_count": "24 reviews",
         "details": [
             "One-Bedroom Apartment",
             "1 full bed",
-            "Free cancellation",
-            "Only 1 left at this price on our site"
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Appartement bien équipé et calme où vous allez passé un bon séjour",
+        "location": "Essaouira",
+        "price": "MAD 295",
+        "review_score": "Scored 5.2",
+        "review_count": "4 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "2 beds (1 king, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Dar Harmattan",
+        "location": "Essaouira",
+        "price": "MAD 652",
+        "review_score": "Scored 9.6",
+        "review_count": "5 reviews",
+        "details": [
+            "Double Room with Garden View",
+            "1 full bed",
+            "Only 3 rooms left at this price on our site"
         ]
     },
     {
         "name": "Appartement à Essaouira jawharat Mogador",
         "location": "Essaouira",
-        "price": "MAD 369",
+        "price": "MAD 339",
         "review_score": "Scored 5.5",
         "review_count": "2 reviews",
         "details": [
@@ -1041,313 +2808,108 @@
         ]
     },
     {
-        "name": "Prada appartement Essaouira",
+        "name": "Dar khadija",
+        "location": "Ahl Agadir, Essaouira",
+        "price": "MAD 1,641",
+        "review_score": "Scored 8.0",
+        "review_count": "9 reviews",
+        "details": [
+            "Standard Double Room",
+            "1 full bed",
+            "Free cancellation",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "شقة بإقامة الجوهرة الصويرة الصويرة",
         "location": "Essaouira",
-        "price": "MAD 1,041",
-        "review_score": "Scored 9.1",
-        "review_count": "24 reviews",
+        "price": "MAD 452",
+        "review_score": "Scored 8.7",
+        "review_count": "9 reviews",
         "details": [
             "Two-Bedroom Apartment",
-            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom",
-            "3 beds (2 twins, 1 king)",
-            "Only 1 left at this price on our site"
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 67m²",
+            "7 beds (2 twins, 4 sofa beds, 1 queen)"
         ]
     },
     {
-        "name": "Apparemment KANZA",
+        "name": "Appartement charmant, 2Terrasses",
         "location": "Essaouira",
-        "price": "MAD 339",
-        "review_score": "Scored 5.2",
-        "review_count": "4 reviews",
-        "details": [
-            "One-Bedroom Apartment",
-            "4 beds (3 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartement Résidence Jawharat Wi-Fi",
-        "location": "Essaouira",
-        "price": "MAD 606",
+        "price": "MAD 579",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
-            "One-Bedroom Apartment",
-            "5 beds (2 twins, 2 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Cozy, Family-Friendly Apartment near Medina & Beach",
-        "location": "El Menzeh, Essaouira",
-        "price": "MAD 663",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment with Terrace",
-            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 50m²",
-            "3 beds (2 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartement bien équipé et calme où vous allez passé un bon séjour",
-        "location": "Essaouira",
-        "price": "MAD 322",
-        "review_score": "Scored 5.2",
-        "review_count": "4 reviews",
-        "details": [
-            "One-Bedroom Apartment",
-            "2 beds (1 king, 1 sofa bed)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa DAR MAMA",
-        "location": "Essaouira",
-        "price": "MAD 757",
-        "review_score": "Scored 7.7",
-        "review_count": "3 reviews",
-        "details": [
-            "Three-Bedroom Villa",
-            "Entire villa • 3 bedrooms • 1 living room • 4 bathrooms • 20m²",
-            "6 beds (1 king, 3 sofa beds, 2 queens)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartement Du Luxe Avec Vue Panoramique",
-        "location": "Essaouira",
-        "price": "MAD 1,534",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "2 beds (1 full, 1 sofa bed)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartemnt essaouira Style",
-        "location": "Essaouira",
-        "price": "MAD 958",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "7 beds (1 full, 6 sofa beds)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "DAR CHBANATE",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 263",
-        "review_score": "Scored 6.0",
-        "review_count": "4 reviews",
-        "details": [
-            "Double Room",
-            "2 beds (1 king, 1 sofa bed)",
-            "Only 3 rooms left at this price on our site"
-        ]
-    },
-    {
-        "name": "Résidence jawharat mogador",
-        "location": "Essaouira",
-        "price": "MAD 663",
-        "review_score": "Scored 7.9",
-        "review_count": "10 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "Entire apartment • 2 bedrooms • 2 bathrooms",
-            "3 beds (1 twin, 1 full, 1 king)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartemnt essaouira",
-        "location": "Essaouira Coast, Essaouira",
-        "price": "MAD 894",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "3 beds (2 twins, 1 full)",
-            "Free cancellation",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Saveur de l’atlas",
-        "location": "Essaouira",
-        "price": "MAD 555",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "4 beds (2 twins, 1 full, 1 sofa bed)",
-            "Free cancellation",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartement essaouira",
-        "location": "Essaouira",
-        "price": "MAD 316",
-        "review_score": "Scored 10",
-        "review_count": "1 review",
-        "details": [
-            "One-Bedroom Apartment",
-            "4 beds (3 twins, 1 full)",
+            "Three-Bedroom Apartment with View",
+            "Entire apartment • 3 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 93m²",
+            "4 beds (2 twins, 1 full, 1 queen)",
             "Free cancellation"
         ]
     },
     {
-        "name": "Appartement de luxe ESSAOUIRA En Face a LA PLAGE",
+        "name": "villa Floratus",
         "location": "Essaouira",
-        "price": "MAD 331",
-        "review_score": "Scored 4.5",
-        "review_count": "22 reviews",
+        "price": "MAD 2,124",
+        "review_score": "Scored 9.1",
+        "review_count": "20 reviews",
         "details": [
-            "Apartment",
-            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²",
-            "8 beds (1 full, 4 bunk beds, 3 sofa beds)",
-            "Only 1 left at this price on our site"
+            "Three-Bedroom Villa",
+            "Entire villa • 3 bedrooms • 3 living rooms • 3 bathrooms • 650m²",
+            "3 full beds"
         ]
     },
     {
-        "name": "Appartemnt location essaouira",
+        "name": "Belle villa Baldi à la campagne d'Essaouira",
         "location": "Essaouira",
-        "price": "MAD 1,704",
+        "price": "MAD 1,129",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 10m²",
+            "6 beds (4 sofa beds, 2 queens) • Free crib always available"
+        ]
+    },
+    {
+        "name": "Sweaty house",
+        "location": "Essaouira",
+        "price": "MAD 287",
+        "review_score": "Scored 9.2",
+        "review_count": "6 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "4 beds (1 full, 3 sofa beds)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Barj 1",
+        "location": "Essaouira",
+        "price": "MAD 208",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
             "One-Bedroom Apartment",
-            "9 beds (2 twins, 6 sofa beds, 1 queen)",
-            "Free cancellation",
-            "Only 1 left at this price on our site"
+            "1 full bed"
         ]
     },
     {
-        "name": "شقة بإقامة الجوهرة الصويرة",
+        "name": "Villa Laarich",
         "location": "Essaouira",
-        "price": "MAD 1,136",
-        "review_score": "Scored 8.1",
-        "review_count": "46 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 67m²",
-            "7 beds (2 twins, 4 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa ichawin",
-        "location": "Essaouira",
-        "price": "MAD 1,585",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "Tent",
-            "Tent",
-            "1 full bed",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Blue Perl appt",
-        "location": "Essaouira",
-        "price": "MAD 1,163",
-        "review_score": "Scored 9.5",
-        "review_count": "2 reviews",
-        "details": [
-            "One-Bedroom Apartment",
-            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 1 kitchen • 79m²",
-            "4 beds (3 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "K-nel apartment Essaouira",
-        "location": "Essaouira",
-        "price": "MAD 852",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "2 beds (1 full, 1 sofa bed)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "appart J",
-        "location": "Mellah, Essaouira",
-        "price": "MAD 947",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 150m²",
-            "6 beds (3 twins, 1 full, 1 king, 1 sofa bed)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "wind house",
-        "location": "Essaouira",
-        "price": "MAD 540",
-        "review_score": "Scored 8.2",
-        "review_count": "9 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "6 beds (2 twins, 1 full, 3 sofa beds)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Riad Isla",
-        "location": "Essaouira",
-        "price": "MAD 1,893",
-        "review_score": "Scored 8.5",
-        "review_count": "13 reviews",
+        "price": "MAD 1,343",
+        "review_score": "Scored 9.4",
+        "review_count": "7 reviews",
         "details": [
             "Villa with Private Pool",
-            "Entire villa • 4 bedrooms • 2 living rooms • 4 bathrooms • 2,200m²",
-            "8 beds (4 sofa beds, 4 queens)",
-            "Breakfast included",
-            "Free cancellation",
-            "Only 1 left at this price on our site"
+            "Entire villa • 3 bedrooms • 1 living room • 3 bathrooms • 1 kitchen • 160m²",
+            "7 beds (2 twins, 3 sofa beds, 2 queens)"
         ]
     },
     {
-        "name": "Séjour Confortable dans un appartement Élégant",
-        "location": "Essaouira",
-        "price": "MAD 2,272",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Apartment",
-            "5 beds (2 twins, 2 sofa beds, 1 queen)"
-        ]
-    },
-    {
-        "name": "Villa celine",
-        "location": "Essaouira",
-        "price": "MAD 1,212",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom House",
-            "Entire vacation home • 1 bedroom • 1 living room • 2 bathrooms • 160m²",
-            "5 beds (3 sofa beds, 2 queens)"
-        ]
-    },
-    {
-        "name": "Dar Mozart",
-        "location": "Essaouira",
-        "price": "MAD 454",
-        "review_score": "Scored 8.9",
-        "review_count": "9 reviews",
+        "name": "Riad Dar",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 261",
+        "review_score": "Scored 6.1",
+        "review_count": "14 reviews",
         "details": [
             "Double Room",
             "1 full bed",
@@ -1355,58 +2917,384 @@
         ]
     },
     {
-        "name": "باب دكالة الصويرة",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 215",
+        "name": "wind house",
+        "location": "Essaouira",
+        "price": "MAD 304",
+        "review_score": "Scored 8.2",
+        "review_count": "9 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "6 beds (2 twins, 1 full, 3 sofa beds)"
+        ]
+    },
+    {
+        "name": "Prada appartement",
+        "location": "Essaouira",
+        "price": "MAD 539",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
             "One-Bedroom Apartment",
-            "1 full bed",
-            "Only 1 left at this price on our site"
+            "3 beds (2 twins, 1 king)"
         ]
     },
     {
-        "name": "A Cozy and Convenient Apartment for a Memorable Stay",
+        "name": "Double terrasse & 2 Chambres Cosy",
         "location": "Essaouira",
-        "price": "MAD 379",
-        "review_score": "Scored 4.0",
-        "review_count": "2 reviews",
-        "details": [
-            "One-Bedroom Apartment",
-            "1 full bed",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartemnt moderne",
-        "location": "Essaouira",
-        "price": "MAD 1,704",
+        "price": "MAD 480",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
-            "One-Bedroom Apartment",
-            "1 full bed",
-            "Only 1 left at this price on our site"
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)"
         ]
     },
     {
-        "name": "RIAD ANIS",
+        "name": "Couleur Magador",
         "location": "Essaouira",
-        "price": "MAD 1,938",
+        "price": "MAD 963",
+        "review_score": "Scored 8.4",
+        "review_count": "25 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 queen)"
+        ]
+    },
+    {
+        "name": "Octopus house",
+        "location": "Essaouira",
+        "price": "MAD 174",
         "review_score": "Scored 9.3",
         "review_count": "3 reviews",
         "details": [
-            "Villa with Sea View",
-            "Entire villa • 6 bedrooms • 2 living rooms • 6 bathrooms",
-            "7 beds (2 twins, 2 fulls, 3 queens)",
+            "Double Room",
+            "1 full bed",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Dar Asma",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 878",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Villa",
+            "Entire villa • 4 bedrooms • 2 living rooms • 3 bathrooms • 1 kitchen • 54m²",
+            "6 beds (4 twins, 2 queens)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Magnifique Riad au coeur de la Medina Essaouira",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 1,824",
+        "review_score": "Scored 9.0",
+        "review_count": "3 reviews",
+        "details": [
+            "Villa",
+            "Entire villa • 3 bedrooms • 2 living rooms • 2 bathrooms • 1 kitchen • 600m²",
+            "7 beds (1 twin, 4 sofa beds, 2 queens)"
+        ]
+    },
+    {
+        "name": "Adam house",
+        "location": "Essaouira",
+        "price": "MAD 627",
+        "review_score": "Scored 9.3",
+        "review_count": "29 reviews",
+        "details": [
+            "Family Room with Terrace",
+            "2 beds (1 twin, 1 queen)",
+            "Breakfast included",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Apparemment Tout Confort Wifi",
+        "location": "Essaouira",
+        "price": "MAD 591",
+        "review_score": "Scored 7.9",
+        "review_count": "10 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "3 beds (1 twin, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "apparemment Anas",
+        "location": "Essaouira",
+        "price": "MAD 318",
+        "review_score": "Scored 5.5",
+        "review_count": "4 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "2 beds (1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "DAR CHBANATE",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 241",
+        "review_score": "Scored 6.0",
+        "review_count": "4 reviews",
+        "details": [
+            "Double Room",
+            "2 beds (1 king, 1 sofa bed)",
+            "Free cancellation",
+            "Only 4 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartement de luxe ESSAOUIRA En Face a LA PLAGE",
+        "location": "Essaouira",
+        "price": "MAD 304",
+        "review_score": "Scored 4.5",
+        "review_count": "22 reviews",
+        "details": [
+            "Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 70m²",
+            "8 beds (1 full, 4 bunk beds, 3 sofa beds)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Villa lila",
+        "location": "Essaouira",
+        "price": "MAD 391",
+        "review_score": "Scored 9.5",
+        "review_count": "2 reviews",
+        "details": [
+            "Deluxe Double Room (2 Adults + 1 Child)",
+            "3 beds (2 twins, 1 full)",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa DAR MAMA",
+        "location": "Essaouira",
+        "price": "MAD 695",
+        "review_score": "Scored 7.7",
+        "review_count": "3 reviews",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 3 bedrooms • 1 living room • 4 bathrooms • 20m²",
+            "6 beds (1 king, 3 sofa beds, 2 queens)"
+        ]
+    },
+    {
+        "name": "House 43",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 483",
+        "review_score": "Scored 9.0",
+        "review_count": "7 reviews",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 1 living room • 1 bathroom",
+            "3 beds (2 twins, 1 full)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "ثافوكت الصويرة",
+        "location": "Essaouira",
+        "price": "MAD 206",
+        "review_score": "Scored 3.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "6 beds (1 full, 3 sofa beds, 2 queens)"
+        ]
+    },
+    {
+        "name": "Saveur de l’atlas",
+        "location": "Essaouira",
+        "price": "MAD 510",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "4 beds (2 twins, 1 full, 1 sofa bed)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Harmonie des alizés",
+        "location": "Essaouira",
+        "price": "MAD 738",
+        "review_score": "Scored 9.6",
+        "review_count": "7 reviews",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 90m²",
+            "3 beds (2 twins, 1 queen)"
+        ]
+    },
+    {
+        "name": "Beautiful Essaouira Escape",
+        "location": "Essaouira",
+        "price": "MAD 1,321",
+        "review_score": "Scored 10",
+        "review_count": "2 reviews",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 3 bedrooms • 3 bathrooms • 1 kitchen • 1,000m²",
+            "3 beds (1 king, 2 queens)",
             "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad L'ostale",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 430",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Deluxe Double Room with Balcony",
+            "1 full bed",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Chez yasmina",
+        "location": "Essaouira",
+        "price": "MAD 243",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Appartement essaouira",
+        "location": "Essaouira",
+        "price": "MAD 338",
+        "review_score": "Scored 9.5",
+        "review_count": "2 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "4 beds (3 twins, 1 full)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Appartement Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 483",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "7 beds (2 twins, 4 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Maison Insa",
+        "location": "Essaouira",
+        "price": "MAD 1,936",
+        "review_score": "Scored 9.7",
+        "review_count": "6 reviews",
+        "details": [
+            "Villa",
+            "Entire villa • 5 bedrooms • 2 bathrooms • 1 kitchen • 250m²",
+            "8 beds (6 twins, 2 fulls)",
+            "Breakfast included",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "K-nel apartment Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 782",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "2 beds (1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Riad Isla",
+        "location": "Essaouira",
+        "price": "MAD 1,737",
+        "review_score": "Scored 8.5",
+        "review_count": "13 reviews",
+        "details": [
+            "Villa with Private Pool",
+            "Entire villa • 4 bedrooms • 2 living rooms • 4 bathrooms • 2,200m²",
+            "8 beds (4 sofa beds, 4 queens)",
+            "Breakfast included",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Dar Mozart",
+        "location": "Essaouira",
+        "price": "MAD 417",
+        "review_score": "Scored 8.9",
+        "review_count": "9 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Free cancellation",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Riad Dar Mami",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 367",
+        "review_score": "Scored 10",
+        "review_count": "3 reviews",
+        "details": [
+            "Family Room with Private Bathroom",
+            "3 beds (1 twin, 1 queen, 1 futon)",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "appart J",
+        "location": "Mellah, Essaouira",
+        "price": "MAD 869",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 150m²",
+            "6 beds (3 twins, 1 full, 1 king, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Dar Mimosa",
+        "location": "Essaouira",
+        "price": "MAD 4,730",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Villa",
+            "Entire villa • 5 bedrooms • 5 bathrooms • 1 kitchen • 550m²",
+            "5 full beds"
+        ]
+    },
+    {
+        "name": "Villa Zaouia",
+        "location": "Essaouira",
+        "price": "MAD 1,027",
+        "review_score": "Scored 5.7",
+        "review_count": "3 reviews",
+        "details": [
+            "Two-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 1 living room • 2 bathrooms • 600m²",
+            "7 beds (2 twins, 1 full, 4 sofa beds)"
         ]
     },
     {
         "name": "Residence jouharaa",
         "location": "Essaouira",
-        "price": "MAD 379",
+        "price": "MAD 347",
         "review_score": "Scored 4.0",
         "review_count": "2 reviews",
         "details": [
@@ -1415,21 +3303,146 @@
         ]
     },
     {
-        "name": "We are looking forward to welcoming you to our home",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 299",
-        "review_score": "Scored 3.3",
+        "name": "A Cozy and Convenient Apartment for a Memorable Stay",
+        "location": "Essaouira",
+        "price": "MAD 347",
+        "review_score": "Scored 4.0",
+        "review_count": "2 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Coastal Appart",
+        "location": "Essaouira",
+        "price": "MAD 347",
+        "review_score": "Scored 10",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "5 beds (2 twins, 1 full, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Studio Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 217",
+        "review_score": "Scored 8.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "2 beds (1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Villa Caroubier",
+        "location": "Essaouira",
+        "price": "MAD 1,186",
+        "review_score": "Scored 10",
+        "review_count": "1 review",
+        "details": [
+            "Villa with Private Pool",
+            "Entire villa • 4 bedrooms • 2 living rooms • 3 bathrooms • 1 kitchen • 200m²",
+            "10 beds (2 twins, 2 fulls, 1 king, 5 sofa beds)"
+        ]
+    },
+    {
+        "name": "Chez Amal",
+        "location": "Essaouira",
+        "price": "MAD 2,919",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Villa",
+            "Entire villa • 1 bedroom • 5 bathrooms • 250m²",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Apparemment À Résidence Confortable",
+        "location": "Essaouira",
+        "price": "MAD 591",
+        "review_score": "Scored 7.0",
         "review_count": "3 reviews",
         "details": [
-            "Triple Room",
-            "1 sofa bed",
-            "Only 1 room left at this price on our site"
+            "One-Bedroom Apartment",
+            "2 beds (1 full, 1 sofa bed)",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Galeria my home BARAKAT MOHAMED",
+        "location": "Essaouira",
+        "price": "MAD 1,998",
+        "review_score": "Scored 10",
+        "review_count": "2 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 king)"
+        ]
+    },
+    {
+        "name": "Villa Rosa",
+        "location": "Essaouira",
+        "price": "MAD 1,303",
+        "review_score": "Scored 8.0",
+        "review_count": "3 reviews",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 200m²",
+            "5 beds (2 twins, 1 sofa bed, 2 queens)"
+        ]
+    },
+    {
+        "name": "تافوكة",
+        "location": "Essaouira",
+        "price": "MAD 290",
+        "review_score": "Scored 7.5",
+        "review_count": "4 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "2 beds (1 full, 1 queen)"
+        ]
+    },
+    {
+        "name": "امام البحر",
+        "location": "Essaouira",
+        "price": "MAD 812",
+        "review_score": "Scored 1.0",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "8 beds (4 twins, 2 fulls, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Appartement Du Luxe 200m à la plage Wi-Fi",
+        "location": "Essaouira",
+        "price": "MAD 487",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "4 beds (1 twin, 2 fulls, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "villa HAKIM",
+        "location": "Essaouira",
+        "price": "MAD 1,303",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Villa",
+            "Entire villa • 1 bedroom • 2 bathrooms • 1,000m²",
+            "1 full bed"
         ]
     },
     {
         "name": "We look forward to welcoming you to our home",
         "location": "Old Medina, Essaouira",
-        "price": "MAD 339",
+        "price": "MAD 311",
         "review_score": "Scored 4.5",
         "review_count": "2 reviews",
         "details": [
@@ -1439,60 +3452,213 @@
         ]
     },
     {
-        "name": "Appartement BABA",
+        "name": "Bali house",
         "location": "Essaouira",
-        "price": "MAD 1,157",
+        "price": "MAD 1,477",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 1 living room • 1 bathroom • 100m²",
+            "6 beds (2 twins, 1 full, 3 sofa beds)"
+        ]
+    },
+    {
+        "name": "We are looking forward to welcoming you to our home",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 274",
+        "review_score": "Scored 3.3",
+        "review_count": "3 reviews",
+        "details": [
+            "Triple Room",
+            "1 sofa bed",
+            "Only 1 room left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartement Ghita Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 808",
+        "review_score": "Scored 10",
+        "review_count": "4 reviews",
+        "details": [
+            "Two-Bedroom Apartment with Terrace and Sea View",
+            "Entire apartment • 2 bedrooms • 2 living rooms • 1 bathroom • 1 kitchen • 85m²",
+            "6 beds (2 twins, 1 king, 3 sofa beds)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Appartement avec terrasse et vue imprenable",
+        "location": "Essaouira",
+        "price": "MAD 724",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Séjour Confortable dans un appartement Élégant",
+        "location": "Essaouira",
+        "price": "MAD 764",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "5 beds (2 twins, 2 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "RIAD ACACIA",
+        "location": "Essaouira",
+        "price": "MAD 709",
+        "review_score": "Scored 7.9",
+        "review_count": "8 reviews",
+        "details": [
+            "Four-Bedroom House",
+            "Entire vacation home • 4 bedrooms • 5 bathrooms • 150m²",
+            "10 beds (6 twins, 4 fulls)",
+            "Free cancellation",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa Nouran beldi",
+        "location": "Essaouira",
+        "price": "MAD 1,448",
+        "review_score": "Scored 10",
+        "review_count": "3 reviews",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 2 bathrooms • 1 kitchen • 120m²",
+            "2 beds (1 king, 1 queen)"
+        ]
+    },
+    {
+        "name": "An elegant apartment",
+        "location": "Essaouira",
+        "price": "MAD 665",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
             "Two-Bedroom Apartment",
-            "3 beds (2 twins, 1 full)",
-            "Only 1 left at this price on our site"
+            "3 beds (2 twins, 1 king)"
         ]
     },
     {
-        "name": "villa HAKIM",
+        "name": "Élégante maison avec piscine privée",
         "location": "Essaouira",
-        "price": "MAD 1,420",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Villa",
-            "Entire villa • 1 bedroom • 2 bathrooms • 1,000m²",
-            "1 full bed",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa Zaouia",
-        "location": "Essaouira",
-        "price": "MAD 1,119",
-        "review_score": "Scored 5.7",
-        "review_count": "3 reviews",
-        "details": [
-            "Two-Bedroom Villa",
-            "Entire villa • 2 bedrooms • 1 living room • 2 bathrooms • 600m²",
-            "7 beds (2 twins, 1 full, 4 sofa beds)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa Rosa",
-        "location": "Essaouira",
-        "price": "MAD 1,420",
+        "price": "MAD 2,838",
         "review_score": "Scored 8.0",
+        "review_count": "2 reviews",
+        "details": [
+            "Villa",
+            "Entire villa • 5 bedrooms • 5 bathrooms • 1 kitchen",
+            "5 full beds"
+        ]
+    },
+    {
+        "name": "Appartement vue su plage",
+        "location": "Essaouira",
+        "price": "MAD 1,236",
+        "review_score": "Scored 4.0",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Villa Tremoulet Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 724",
+        "review_score": "Scored 10",
+        "review_count": "5 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Breakfast included",
+            "Only 6 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appart mehdi",
+        "location": "Essaouira",
+        "price": "MAD 261",
+        "review_score": "Scored 1.0",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "6 beds (4 twins, 1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Riad Zamrani",
+        "location": "Kasbah, Essaouira",
+        "price": "MAD 521",
+        "review_score": "Scored 8.0",
+        "review_count": "2 reviews",
+        "details": [
+            "Double Room",
+            "1 full bed",
+            "Free cancellation",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "appartement calme",
+        "location": "Essaouira",
+        "price": "MAD 430",
+        "review_score": "Scored 3.0",
         "review_count": "3 reviews",
         "details": [
-            "Three-Bedroom Villa",
-            "Entire villa • 3 bedrooms • 1 living room • 2 bathrooms • 1 kitchen • 200m²",
-            "5 beds (2 twins, 1 sofa bed, 2 queens)",
-            "Only 1 left at this price on our site"
+            "Two-Bedroom Apartment",
+            "6 beds (2 twins, 1 full, 3 sofa beds)"
+        ]
+    },
+    {
+        "name": "Dar Al Kheir",
+        "location": "Essaouira",
+        "price": "MAD 1,042",
+        "review_score": "Scored 10",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 70m²",
+            "3 beds (2 twins, 1 full)"
+        ]
+    },
+    {
+        "name": "Villa Rania bord de mer",
+        "location": "Essaouira",
+        "price": "MAD 4,187",
+        "review_score": "Scored 9.7",
+        "review_count": "3 reviews",
+        "details": [
+            "Villa",
+            "Entire villa • 5 bedrooms • 5 bathrooms • 1 kitchen • 300m²",
+            "11 beds (8 twins, 1 full, 2 queens)"
+        ]
+    },
+    {
+        "name": "جوهرة موكادور",
+        "location": "Essaouira",
+        "price": "MAD 313",
+        "review_score": "Scored 1.0",
+        "review_count": "2 reviews",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 2 bathrooms • 1 kitchen • 64m²",
+            "3 beds (2 twins, 1 full)"
         ]
     },
     {
         "name": "Chez Hayat",
         "location": "Essaouira",
-        "price": "MAD 889",
+        "price": "MAD 735",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
@@ -1503,172 +3669,44 @@
         ]
     },
     {
-        "name": "جوهرة موكادور",
-        "location": "Essaouira",
-        "price": "MAD 341",
-        "review_score": "Scored 1.0",
-        "review_count": "2 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "Entire apartment • 2 bedrooms • 2 bathrooms • 1 kitchen • 64m²",
-            "3 beds (2 twins, 1 full)",
-            "Only 2 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Duplex charmant à Essaouira",
-        "location": "Essaouira",
-        "price": "MAD 750",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "Two-Bedroom House",
-            "Entire vacation home • 2 bedrooms • 2 living rooms • 2 bathrooms • 1 kitchen • 80m²",
-            "13 beds (4 fulls, 1 king, 8 sofa beds)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "appartement calme",
-        "location": "Essaouira",
-        "price": "MAD 469",
-        "review_score": "Scored 3.0",
-        "review_count": "3 reviews",
-        "details": [
-            "Two-Bedroom Apartment",
-            "6 beds (2 twins, 1 full, 3 sofa beds)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "امام البحر",
-        "location": "Essaouira",
-        "price": "MAD 885",
-        "review_score": "Scored 1.0",
-        "review_count": "1 review",
-        "details": [
-            "Two-Bedroom Apartment",
-            "8 beds (4 twins, 2 fulls, 2 sofa beds)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appart mehdi",
-        "location": "Essaouira",
-        "price": "MAD 284",
-        "review_score": "Scored 1.0",
-        "review_count": "1 review",
-        "details": [
-            "Two-Bedroom Apartment",
-            "6 beds (4 twins, 1 full, 1 sofa bed)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Appartement moderne proche de la plage",
-        "location": "Essaouira",
-        "price": "MAD 3,787",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "Two-Bedroom Apartment",
-            "8 beds (2 fulls, 1 king, 3 sofa beds, 2 queens)"
-        ]
-    },
-    {
         "name": "Appartement de luxe",
         "location": "Essaouira",
-        "price": "MAD 937",
+        "price": "MAD 860",
         "review_score": "Scored 1.0",
         "review_count": "1 review",
         "details": [
             "One-Bedroom Apartment",
             "Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 75m²",
-            "2 beds (1 full, 1 sofa bed)",
-            "Only 1 left at this price on our site"
+            "2 beds (1 full, 1 sofa bed)"
         ]
     },
     {
-        "name": "Apparemment À Résidence Confortable",
+        "name": "Villa Med House",
         "location": "Essaouira",
-        "price": "MAD 1,207",
-        "review_score": "Scored 7.0",
-        "review_count": "3 reviews",
-        "details": [
-            "One-Bedroom Apartment",
-            "2 beds (1 full, 1 sofa bed)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Edibesaadia",
-        "location": "Old Medina, Essaouira",
-        "price": "MAD 1,524",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "Large Double Room",
-            "6 beds (4 twins, 2 fulls)",
-            "Only 2 rooms left at this price on our site"
-        ]
-    },
-    {
-        "name": "la verte esouairia",
-        "location": "Essaouira",
-        "price": "MAD 2,209",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "Double Room",
-            "5 full beds",
-            "Breakfast included",
-            "Free cancellation",
-            "No prepayment needed – pay at the property"
-        ]
-    },
-    {
-        "name": "Appartemnt Essaouira welcome all",
-        "location": "Essaouira",
-        "price": "MAD 1,704",
-        "review_score": "Scored 1.0",
+        "price": "MAD 1,737",
+        "review_score": "Scored 9.0",
         "review_count": "1 review",
         "details": [
-            "One-Bedroom Apartment",
-            "9 beds (2 twins, 6 sofa beds, 1 queen)",
-            "Free cancellation",
-            "Only 1 left at this price on our site"
+            "Two-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 1 living room • 2 bathrooms • 110m²",
+            "4 beds (2 fulls, 2 sofa beds)"
         ]
     },
     {
-        "name": "La Perle De Hrartha",
+        "name": "Appartement essaouira",
         "location": "Essaouira",
-        "price": "MAD 4,226",
+        "price": "MAD 626",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
-            "Three-Bedroom Villa",
-            "Entire villa • 2 bedrooms • 1 living room • 1 bathroom • 150m²",
-            "16 beds (1 full, 2 bunk beds, 7 sofa beds, 1 queen, 5 futons)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Maison d'hôte",
-        "location": "Essaouira",
-        "price": "MAD 606",
-        "review_score": "Scored 1.0",
-        "review_count": "1 review",
-        "details": [
-            "One-Bedroom House",
-            "Entire vacation home • 1 bedroom • 1 living room • 2 bathrooms • 230m²",
-            "4 beds (1 full, 1 sofa bed, 2 queens)",
-            "Only 1 left at this price on our site"
+            "Two-Bedroom Apartment",
+            "6 beds (3 twins, 1 full, 2 sofa beds)"
         ]
     },
     {
         "name": "Dar De La Milonga",
         "location": "Essaouira",
-        "price": "MAD 820",
+        "price": "MAD 753",
         "review_score": "Scored 1.0",
         "review_count": "2 reviews",
         "details": [
@@ -1680,59 +3718,750 @@
         ]
     },
     {
-        "name": "Appartement Essaouira",
+        "name": "Maison d'hôte",
         "location": "Essaouira",
-        "price": "MAD 1,356",
-        "review_score": "N/A",
-        "review_count": "N/A",
+        "price": "MAD 556",
+        "review_score": "Scored 1.0",
+        "review_count": "1 review",
         "details": [
-            "Two-Bedroom Apartment",
-            "7 beds (2 twins, 1 full, 4 sofa beds)",
-            "Only 1 left at this price on our site"
+            "One-Bedroom House",
+            "Entire vacation home • 1 bedroom • 1 living room • 2 bathrooms • 230m²",
+            "4 beds (1 full, 1 sofa bed, 2 queens)"
         ]
     },
     {
         "name": "Vue mer appartement",
         "location": "Essaouira",
-        "price": "MAD 863",
+        "price": "MAD 792",
         "review_score": "Scored 3.0",
         "review_count": "2 reviews",
         "details": [
             "One-Bedroom Apartment",
             "Entire apartment • 1 bedroom • 2 living rooms • 1 bathroom • 90m²",
-            "8 beds (2 twins, 1 full, 5 sofa beds)",
+            "8 beds (2 twins, 1 full, 5 sofa beds)"
+        ]
+    },
+    {
+        "name": "Duplex charmant à Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 688",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 2 living rooms • 2 bathrooms • 1 kitchen • 80m²",
+            "13 beds (4 fulls, 1 king, 8 sofa beds)",
             "Only 1 left at this price on our site"
         ]
     },
     {
-        "name": "Comfort house",
+        "name": "CONÇU FRAIS à côté de LA MER - quartier agréable - wifi",
         "location": "Essaouira",
-        "price": "MAD 3,030",
+        "price": "MAD 1,042",
+        "review_score": "Scored 8.0",
+        "review_count": "2 reviews",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Riad Aïcha Addi - Poolside - Traditional Moroccan",
+        "location": "Essaouira",
+        "price": "MAD 2,413",
+        "review_score": "Scored 9.3",
+        "review_count": "36 reviews",
+        "details": [
+            "Villa",
+            "Entire villa • 5 bedrooms • 5 bathrooms • 1 kitchen • 185m²",
+            "5 king beds",
+            "Free cancellation",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "إقامة الهناء للكراء الصيفي في مدينة الرياح",
+        "location": "Essaouira",
+        "price": "MAD 382",
+        "review_score": "Scored 2.1",
+        "review_count": "8 reviews",
+        "details": [
+            "Three-Bedroom Apartment",
+            "5 beds (1 full, 3 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "Appartement T3 Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 434",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
             "One-Bedroom Apartment",
-            "5 beds (1 full, 4 sofa beds)",
+            "3 beds (1 full, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "RIAD ANIS",
+        "location": "Essaouira",
+        "price": "MAD 1,779",
+        "review_score": "Scored 9.3",
+        "review_count": "3 reviews",
+        "details": [
+            "Villa with Sea View",
+            "Entire villa • 6 bedrooms • 2 living rooms • 6 bathrooms",
+            "7 beds (2 twins, 2 fulls, 3 queens)",
             "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Apartement en 1er etage et autre 2eme avec terasse location longue duré",
+        "location": "Essaouira",
+        "price": "MAD 487",
+        "review_score": "Scored 1.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 2 bathrooms • 90m²",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Appartemnt essaouira Style",
+        "location": "Essaouira",
+        "price": "MAD 879",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "7 beds (1 full, 6 sofa beds)"
+        ]
+    },
+    {
+        "name": "Appartement Résidence Jawharat Wi-Fi",
+        "location": "Essaouira",
+        "price": "MAD 556",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "5 beds (2 twins, 2 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "Appartement Du Luxe Avec Vue Panoramique",
+        "location": "Essaouira",
+        "price": "MAD 1,407",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "2 beds (1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Appartemnt essaouira",
+        "location": "Essaouira Coast, Essaouira",
+        "price": "MAD 820",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Omar Mogadore",
+        "location": "Essaouira",
+        "price": "MAD 458",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "5 beds (1 full, 3 sofa beds, 1 futon)"
+        ]
+    },
+    {
+        "name": "Villa ichawin",
+        "location": "Essaouira",
+        "price": "MAD 1,455",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Tent",
+            "Tent",
+            "1 full bed",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartemnt location essaouira",
+        "location": "Essaouira",
+        "price": "MAD 1,564",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "9 beds (2 twins, 6 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Villa avec piscine à proximité du golf de Mogador Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 1,192",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 3 bedrooms • 3 bathrooms • 150m²",
+            "4 beds (2 twins, 2 queens)"
+        ]
+    },
+    {
+        "name": "Surf house essaouira",
+        "location": "Essaouira",
+        "price": "MAD 305",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "4 beds (2 twins, 1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Seb studio",
+        "location": "Essaouira",
+        "price": "MAD 241",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Apparemment neuf spacieux avec terrasse et rooftop",
+        "location": "Essaouira",
+        "price": "MAD 389",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "2 beds (1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Cozy studio avec Kitchenette",
+        "location": "Essaouira",
+        "price": "MAD 304",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 1 bathroom • 25m²",
+            "1 queen bed"
+        ]
+    },
+    {
+        "name": "Chez les parents F3",
+        "location": "Essaouira",
+        "price": "MAD 475",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 bathroom • 60m²",
+            "2 full beds"
+        ]
+    },
+    {
+        "name": "appartement lghazoua Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 443",
+        "review_score": "Scored 1.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "3 beds (1 twin, 2 fulls)"
+        ]
+    },
+    {
+        "name": "Villa et bungalows chez Kousmat",
+        "location": "Essaouira",
+        "price": "MAD 3,909",
+        "review_score": "Scored 8.0",
+        "review_count": "1 review",
+        "details": [
+            "Villa",
+            "Entire villa • 6 bedrooms • 6 bathrooms • 1 kitchen • 500m²",
+            "9 beds (5 twins, 4 fulls)"
+        ]
+    },
+    {
+        "name": "Appartement terrasse en famille ou entre amis",
+        "location": "Essaouira",
+        "price": "MAD 701",
+        "review_score": "Scored 10",
+        "review_count": "1 review",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)"
+        ]
+    },
+    {
+        "name": "Elegant And Calm Apartment",
+        "location": "Essaouira",
+        "price": "MAD 264",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "6 beds (1 full, 5 sofa beds)"
+        ]
+    },
+    {
+        "name": "Dar salam",
+        "location": "Essaouira",
+        "price": "MAD 391",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Villa celine",
+        "location": "Essaouira",
+        "price": "MAD 1,112",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom House",
+            "Entire vacation home • 1 bedroom • 1 living room • 2 bathrooms • 160m²",
+            "5 beds (3 sofa beds, 2 queens)"
+        ]
+    },
+    {
+        "name": "Villa DAR PITXI",
+        "location": "Essaouira",
+        "price": "MAD 2,189",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Four-Bedroom House",
+            "Entire vacation home • 4 bedrooms • 4 bathrooms • 200m²",
+            "7 beds (2 twins, 1 full, 1 bunk bed, 3 queens)"
+        ]
+    },
+    {
+        "name": "Appartemnt moderne",
+        "location": "Essaouira",
+        "price": "MAD 1,564",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Appartement de charme",
+        "location": "Essaouira",
+        "price": "MAD 375",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 fulls, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Appartement calme Essaouira Mogador",
+        "location": "Essaouira",
+        "price": "MAD 554",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 1 kitchen • 90m²",
+            "6 beds (3 fulls, 2 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "Appartement BABA",
+        "location": "Essaouira",
+        "price": "MAD 1,062",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)",
+            "Only 1 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Villa de campagne",
+        "location": "Essaouira",
+        "price": "MAD 2,297",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Four-Bedroom House",
+            "Entire vacation home • 3 bedrooms • 4 bathrooms • 230m²",
+            "3 full beds"
+        ]
+    },
+    {
+        "name": "Essaouria Stones - Pool - Garden",
+        "location": "Essaouira",
+        "price": "MAD 1,946",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Villa",
+            "Entire villa • 2 bedrooms • 4 bathrooms • 1 kitchen • 200m²",
+            "2 full beds"
+        ]
+    },
+    {
+        "name": "Essaouira Attitude - Pool - Garden",
+        "location": "Essaouira",
+        "price": "MAD 2,039",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 3 bathrooms • 1 kitchen",
+            "2 full beds",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "le simple",
+        "location": "Essaouira",
+        "price": "MAD 478",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "3 beds (1 full, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Villa Loubna",
+        "location": "Essaouira",
+        "price": "MAD 695",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 1 bathroom • 1 kitchen • 120m²",
+            "2 full beds"
+        ]
+    },
+    {
+        "name": "إقامة الجوهرة موݣادور الصويرة",
+        "location": "Essaouira",
+        "price": "MAD 1,042",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "maryame house",
+        "location": "Essaouira",
+        "price": "MAD 522",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 2 bathrooms • 65m²",
+            "4 beds (2 twins, 1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "calme and terrasse",
+        "location": "Essaouira",
+        "price": "MAD 586",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "4 beds (2 twins, 1 full, 1 sofa bed)"
+        ]
+    },
+    {
+        "name": "Villa OOM",
+        "location": "Essaouira",
+        "price": "MAD 2,597",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Villa",
+            "Entire villa • 4 bedrooms • 1 living room • 4 bathrooms",
+            "6 beds (1 twin, 1 sofa bed, 4 queens)"
+        ]
+    },
+    {
+        "name": "تافوكت الصويرة 23",
+        "location": "Essaouira",
+        "price": "MAD 1,303",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Villa nature",
+        "location": "Essaouira",
+        "price": "MAD 973",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Villa",
+            "Entire villa • 1 bedroom • 1 living room • 2 bathrooms • 900m²",
+            "7 beds (2 twins, 4 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "Riad Elbadii, Charming Riad",
+        "location": "Essaouira",
+        "price": "MAD 2,224",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Villa",
+            "Entire villa • 4 bedrooms • 5 bathrooms • 1,000m²",
+            "5 beds (2 twins, 3 queens)"
+        ]
+    },
+    {
+        "name": "Maryame house",
+        "location": "Essaouira",
+        "price": "MAD 352",
+        "review_score": "Scored 10",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "Entire apartment • 1 bedroom • 1 living room • 1 bathroom • 25m²",
+            "2 beds (1 sofa bed, 1 queen)"
+        ]
+    },
+    {
+        "name": "Appartement moderne proche de la plage",
+        "location": "Essaouira",
+        "price": "MAD 3,475",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "8 beds (2 fulls, 1 king, 3 sofa beds, 2 queens)"
+        ]
+    },
+    {
+        "name": "Room of pleasure and rest",
+        "location": "Essaouira",
+        "price": "MAD 191",
+        "review_score": "Scored 1.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "1 full bed"
+        ]
+    },
+    {
+        "name": "Bel appartement au rez de chaussée",
+        "location": "Essaouira",
+        "price": "MAD 734",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 150m²",
+            "11 beds (2 twins, 1 full, 8 sofa beds)",
+            "Only 2 left at this price on our site"
+        ]
+    },
+    {
+        "name": "Appartemnt Essaouira welcome all",
+        "location": "Essaouira",
+        "price": "MAD 1,564",
+        "review_score": "Scored 1.0",
+        "review_count": "1 review",
+        "details": [
+            "One-Bedroom Apartment",
+            "9 beds (2 twins, 6 sofa beds, 1 queen)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Villa Golf Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 4,102",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Villa",
+            "Entire villa • 1 bedroom • 3 bathrooms • 1 kitchen • 353m²",
+            "4 beds (2 twins, 2 queens)"
+        ]
+    },
+    {
+        "name": "Darben",
+        "location": "Essaouira",
+        "price": "MAD 1,357",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Three-Bedroom Apartment",
+            "5 beds (3 fulls, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Très bel appartement au premier étage",
+        "location": "Essaouira",
+        "price": "MAD 695",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom • 150m²",
+            "9 beds (2 twins, 1 full, 6 sofa beds)"
+        ]
+    },
+    {
+        "name": "Maison de famille Sidi Kaouki",
+        "location": "Essaouira",
+        "price": "MAD 406",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom House",
+            "Entire vacation home • 2 bedrooms • 1 bathroom • 1 kitchen • 60m²",
+            "3 beds (2 twins, 1 full)"
+        ]
+    },
+    {
+        "name": "Appartement Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 1,244",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "7 beds (2 twins, 1 full, 4 sofa beds)"
+        ]
+    },
+    {
+        "name": "Edibesaadia",
+        "location": "Old Medina, Essaouira",
+        "price": "MAD 1,399",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Large Double Room",
+            "6 beds (4 twins, 2 fulls)",
+            "Only 2 rooms left at this price on our site"
+        ]
+    },
+    {
+        "name": "la verte esouairia",
+        "location": "Essaouira",
+        "price": "MAD 2,203",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Double Room",
+            "5 full beds",
+            "Breakfast included",
+            "Free cancellation",
+            "No prepayment needed – pay at the property"
         ]
     },
     {
         "name": "Serenity Guesthouse",
         "location": "Essaouira",
-        "price": "MAD 828",
+        "price": "MAD 760",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
             "Two-Bedroom House",
             "Entire vacation home • 2 bedrooms • 1 living room • 1 bathroom • 200m²",
-            "17 beds (6 twins, 10 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
+            "17 beds (6 twins, 10 sofa beds, 1 queen)"
+        ]
+    },
+    {
+        "name": "La Perle De Hrartha",
+        "location": "Essaouira",
+        "price": "MAD 3,878",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 2 bedrooms • 1 living room • 1 bathroom • 150m²",
+            "16 beds (1 full, 2 bunk beds, 7 sofa beds, 1 queen, 5 futons)"
+        ]
+    },
+    {
+        "name": "Appartenant à Essaouira",
+        "location": "Essaouira",
+        "price": "MAD 820",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "3 beds (2 twins, 1 full)",
+            "Free cancellation"
+        ]
+    },
+    {
+        "name": "Villa essaouira dwar arab",
+        "location": "Essaouira",
+        "price": "MAD 2,086",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Villa",
+            "Entire villa • 1 bedroom • 1 living room • 2 bathrooms",
+            "10 beds (4 twins, 1 full, 5 sofa beds)"
+        ]
+    },
+    {
+        "name": "Comfort house",
+        "location": "Essaouira",
+        "price": "MAD 2,780",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "One-Bedroom Apartment",
+            "5 beds (1 full, 4 sofa beds)"
+        ]
+    },
+    {
+        "name": "Agadir",
+        "location": "Essaouira",
+        "price": "MAD 3,475",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "Entire apartment • 2 bedrooms • 1 living room • 1 bathroom",
+            "4 beds (2 twins, 1 sofa bed, 1 queen)"
         ]
     },
     {
         "name": "Ash",
         "location": "Essaouira",
-        "price": "MAD 2,840",
+        "price": "MAD 2,833",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
@@ -1744,85 +4473,44 @@
         ]
     },
     {
-        "name": "إقامة الهناء للكراء الصيفي في مدينة الرياح",
+        "name": "Villa Ifran",
         "location": "Essaouira",
-        "price": "MAD 417",
-        "review_score": "Scored 2.1",
-        "review_count": "8 reviews",
-        "details": [
-            "Three-Bedroom Apartment",
-            "5 beds (1 full, 3 sofa beds, 1 queen)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa essaouira dwar arab",
-        "location": "Essaouira",
-        "price": "MAD 2,273",
+        "price": "MAD 2,259",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
-            "One-Bedroom Villa",
-            "Entire villa • 1 bedroom • 1 living room • 2 bathrooms",
-            "10 beds (4 twins, 1 full, 5 sofa beds)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Apartement en 1er etage et autre 2eme avec terasse location longue duré",
-        "location": "Essaouira",
-        "price": "MAD 530",
-        "review_score": "Scored 1.0",
-        "review_count": "1 review",
-        "details": [
-            "One-Bedroom Apartment",
-            "Entire apartment • 1 bedroom • 2 bathrooms • 90m²",
-            "1 full bed",
-            "Only 2 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa Essaouira",
-        "location": "Essaouira",
-        "price": "MAD 4,355",
-        "review_score": "N/A",
-        "review_count": "N/A",
-        "details": [
-            "One-Bedroom Villa",
-            "Entire villa • 1 bedroom • 1 living room • 5 bathrooms • 1 kitchen • 260m²",
-            "9 beds (4 twins, 3 fulls, 2 sofa beds)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Villa et bungalows chez Kousmat",
-        "location": "Essaouira",
-        "price": "MAD 4,260",
-        "review_score": "Scored 8.0",
-        "review_count": "1 review",
-        "details": [
-            "Villa",
-            "Entire villa • 6 bedrooms • 6 bathrooms • 1 kitchen • 500m²",
-            "9 beds (5 twins, 4 fulls)",
-            "Only 1 left at this price on our site"
+            "Three-Bedroom Villa",
+            "Entire villa • 3 bedrooms • 3 bathrooms",
+            "3 beds (1 full, 2 queens)"
         ]
     },
     {
         "name": "شقة امام البحر دات اطلالة جميلة",
         "location": "Essaouira",
-        "price": "MAD 8,331",
+        "price": "MAD 7,645",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
             "One-Bedroom Apartment",
-            "5 beds (2 twins, 1 full, 2 sofa beds)",
-            "Only 1 left at this price on our site"
+            "5 beds (2 twins, 1 full, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Refuge à la campagne",
+        "location": "Essaouira",
+        "price": "MAD 1,853",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Three-Bedroom Villa",
+            "Entire villa • 3 bedrooms • 3 bathrooms",
+            "3 full beds"
         ]
     },
     {
         "name": "Lotissement al amal dyour cha3bi",
         "location": "Essaouira",
-        "price": "MAD 3,116",
+        "price": "MAD 2,859",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
@@ -1832,109 +4520,52 @@
         ]
     },
     {
-        "name": "appartement lghazoua Essaouira",
+        "name": "Villa Essaouira",
         "location": "Essaouira",
-        "price": "MAD 483",
-        "review_score": "Scored 1.0",
-        "review_count": "1 review",
+        "price": "MAD 3,996",
+        "review_score": "N/A",
+        "review_count": "N/A",
         "details": [
-            "One-Bedroom Apartment",
-            "3 beds (1 twin, 2 fulls)",
-            "Only 1 left at this price on our site"
+            "One-Bedroom Villa",
+            "Entire villa • 1 bedroom • 1 living room • 5 bathrooms • 1 kitchen • 260m²",
+            "9 beds (4 twins, 3 fulls, 2 sofa beds)"
+        ]
+    },
+    {
+        "name": "Ďar jamal",
+        "location": "Essaouira",
+        "price": "MAD 7,905",
+        "review_score": "N/A",
+        "review_count": "N/A",
+        "details": [
+            "Two-Bedroom Apartment",
+            "6 beds (2 twins, 1 full, 3 sofa beds)"
         ]
     },
     {
         "name": "LA VACHE quiI RIT",
         "location": "Essaouira",
-        "price": "MAD 11,361",
+        "price": "MAD 10,425",
         "review_score": "N/A",
         "review_count": "N/A",
         "details": [
             "Four-Bedroom House",
             "Entire vacation home • 4 bedrooms • 1 living room • 2 bathrooms • 150m²",
             "7 beds (3 twins, 3 fulls, 1 sofa bed)",
-            "Breakfast included",
-            "Only 1 left at this price on our site"
+            "Breakfast included"
         ]
     },
     {
-        "name": "apparemment Anas",
-        "location": "Essaouira",
-        "price": "MAD 8,852",
-        "review_score": "Scored 5.5",
-        "review_count": "4 reviews",
-        "details": [
-            "One-Bedroom Apartment",
-            "2 beds (1 full, 1 sofa bed)",
-            "Only 1 left at this price on our site"
-        ]
-    },
-    {
-        "name": "Essaouira Beach Hostel",
-        "location": "Essaouira",
-        "price": "MAD 252",
-        "review_score": "Scored 8.4",
-        "review_count": "2,413 reviews",
-        "details": [
-            "2×",
-            "Single Bed in Male Dormitory Room with Shared Bathroom",
-            "2 beds in dorms",
-            "2 bunk beds"
-        ]
-    },
-    {
-        "name": "Hostel La Smala",
-        "location": "Kasbah, Essaouira",
-        "price": "MAD 337",
-        "review_score": "Scored 8.6",
-        "review_count": "1,393 reviews",
-        "details": [
-            "2×",
-            "Single Bed in Male Dormitory Room with Shared Bathroom",
-            "2 beds in dorms",
-            "2 twin beds"
-        ]
-    },
-    {
-        "name": "Giraffe Hostel-Sea view Rooftop",
-        "location": "Ahl Agadir, Essaouira",
-        "price": "MAD 285",
-        "review_score": "Scored 8.2",
-        "review_count": "180 reviews",
-        "details": [
-            "1×",
-            "Bed in 4-Bed Mixed Dormitory Room",
-            "Bed in dorm • 12m²",
-            "1 bunk bed",
-            "1×",
-            "Bed in 4-Bed Mixed Dormitory Room",
-            "Bed in dorm • 12m²",
-            "1 bunk bed"
-        ]
-    },
-    {
-        "name": "berber hostel",
+        "name": "White And Blue",
         "location": "Old Medina, Essaouira",
-        "price": "MAD 273",
-        "review_score": "Scored 8.4",
-        "review_count": "451 reviews",
+        "price": "MAD 210",
+        "review_score": "Scored 8.2",
+        "review_count": "692 reviews",
         "details": [
             "2×",
-            "Mixed Dormitory Room",
-            "2 shared dorm rooms",
-            "8 bunk beds"
-        ]
-    },
-    {
-        "name": "Riad les trois merveilles",
-        "location": "Essaouira",
-        "price": "MAD 1,262",
-        "review_score": "Scored 9.4",
-        "review_count": "75 reviews",
-        "details": [
-            "2×",
-            "Double Room with Garden View",
-            "2 queen beds",
+            "Single Bed in Female Dormitory Room",
+            "2 beds in dorms",
+            "2 twin beds",
             "Free cancellation",
             "No prepayment needed – pay at the property"
         ]
